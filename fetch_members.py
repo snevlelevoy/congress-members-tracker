@@ -21,7 +21,7 @@ def get_congress_members():
     }
     
     params = {
-        'limit': 250,  # Adjust based on the actual number of members
+        'limit': 600,  # Adjust based on the actual number of members
         'offset': 0
     }
     
