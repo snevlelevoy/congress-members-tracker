@@ -52,8 +52,13 @@ jobs:
           # Commit changes
           git commit -m "Auto-update Congress member data [skip ci]"
           
-          # Push changes using the PAT
+          # Set up remote with PAT
           git remote set-url origin https://${{ github.actor }}:$PAT@github.com/${{ github.repository }}.git
+          
+          # Pull latest changes and rebase our commit on top
+          git pull --rebase origin main
+          
+          # Push changes
           git push origin HEAD:main
         else
           echo "No changes to commit"
