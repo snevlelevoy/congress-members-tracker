@@ -10,7 +10,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000590?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837329",
+    "lastUpdated": "2025-07-28T17:32:02.487908",
     "district": 7
   },
   {
@@ -24,7 +24,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C000488?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837361",
+    "lastUpdated": "2025-07-28T17:32:02.487921",
     "district": 1
   },
   {
@@ -38,7 +38,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001233?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837373",
+    "lastUpdated": "2025-07-28T17:32:02.487926",
     "district": 8
   },
   {
@@ -52,7 +52,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M000309?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837383",
+    "lastUpdated": "2025-07-28T17:32:02.487929",
     "district": 4
   },
   {
@@ -66,7 +66,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/W000520?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837392",
+    "lastUpdated": "2025-07-28T17:32:02.487932",
     "district": null
   },
   {
@@ -80,7 +80,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000460?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837401",
+    "lastUpdated": "2025-07-28T17:32:02.487936",
     "district": 27
   },
   {
@@ -94,7 +94,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/N000019?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837410",
+    "lastUpdated": "2025-07-28T17:32:02.487939",
     "district": 14
   },
   {
@@ -108,7 +108,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000617?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837418",
+    "lastUpdated": "2025-07-28T17:32:02.487942",
     "district": 3
   },
   {
@@ -122,7 +122,7 @@
     "title": "Senator",
     "url": "https://api.congress.gov/v3/member/S001232?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837426"
+    "lastUpdated": "2025-07-28T17:32:02.487946"
   },
   {
     "id": "L000570",
@@ -135,7 +135,7 @@
     "title": "Senator",
     "url": "https://api.congress.gov/v3/member/L000570?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837436"
+    "lastUpdated": "2025-07-28T17:32:02.487949"
   },
   {
     "id": "H001089",
@@ -148,7 +148,7 @@
     "title": "Senator",
     "url": "https://api.congress.gov/v3/member/H001089?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837444"
+    "lastUpdated": "2025-07-28T17:32:02.487952"
   },
   {
     "id": "R000053",
@@ -161,7 +161,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000053?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837452",
+    "lastUpdated": "2025-07-28T17:32:02.487955",
     "district": 13
   },
   {
@@ -175,7 +175,7 @@
     "title": "Senator",
     "url": "https://api.congress.gov/v3/member/W000800?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837460"
+    "lastUpdated": "2025-07-28T17:32:02.487959"
   },
   {
     "id": "C001078",
@@ -188,7 +188,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001078?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837468",
+    "lastUpdated": "2025-07-28T17:32:02.487961",
     "district": 11
   },
   {
@@ -202,7 +202,7 @@
     "title": "Senator",
     "url": "https://api.congress.gov/v3/member/M001242?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837476"
+    "lastUpdated": "2025-07-28T17:32:02.487964"
   },
   {
     "id": "B000611",
@@ -215,7 +215,7 @@
     "title": "Senator",
     "url": "https://api.congress.gov/v3/member/B000611?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837483"
+    "lastUpdated": "2025-07-28T17:32:02.487967"
   },
   {
     "id": "M001229",
@@ -228,7 +228,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001229?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837491",
+    "lastUpdated": "2025-07-28T17:32:02.487970",
     "district": 10
   },
   {
@@ -242,7 +242,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001085?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837499",
+    "lastUpdated": "2025-07-28T17:32:02.487973",
     "district": 6
   },
   {
@@ -256,7 +256,7 @@
     "title": "Senator",
     "url": "https://api.congress.gov/v3/member/M001244?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837507"
+    "lastUpdated": "2025-07-28T17:32:02.487976"
   },
   {
     "id": "M000566",
@@ -269,7 +269,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M000566?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837515",
+    "lastUpdated": "2025-07-28T17:32:02.487979",
     "district": 9
   },
   {
@@ -283,7 +283,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001101?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837523",
+    "lastUpdated": "2025-07-28T17:32:02.487981",
     "district": 14
   },
   {
@@ -297,7 +297,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000116?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837532",
+    "lastUpdated": "2025-07-28T17:32:02.487984",
     "district": 51
   },
   {
@@ -311,7 +311,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001226?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837540",
+    "lastUpdated": "2025-07-28T17:32:02.487987",
     "district": 8
   },
   {
@@ -325,7 +325,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000477?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837548",
+    "lastUpdated": "2025-07-28T17:32:02.487990",
     "district": 4
   },
   {
@@ -339,7 +339,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000488?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837556",
+    "lastUpdated": "2025-07-28T17:32:02.487992",
     "district": 13
   },
   {
@@ -353,7 +353,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/P000622?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837564",
+    "lastUpdated": "2025-07-28T17:32:02.487995",
     "district": 1
   },
   {
@@ -367,7 +367,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000484?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837572",
+    "lastUpdated": "2025-07-28T17:32:02.487998",
     "district": 6
   },
   {
@@ -381,7 +381,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001221?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837580",
+    "lastUpdated": "2025-07-28T17:32:02.488001",
     "district": 3
   },
   {
@@ -395,7 +395,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000299?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837588",
+    "lastUpdated": "2025-07-28T17:32:02.488004",
     "district": 4
   },
   {
@@ -409,7 +409,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000621?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837596",
+    "lastUpdated": "2025-07-28T17:32:02.488006",
     "district": 6
   },
   {
@@ -423,7 +423,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001235?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837604",
+    "lastUpdated": "2025-07-28T17:32:02.488009",
     "district": 2
   },
   {
@@ -437,7 +437,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001322?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837612",
+    "lastUpdated": "2025-07-28T17:32:02.488012",
     "district": 5
   },
   {
@@ -451,7 +451,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/W000829?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837619",
+    "lastUpdated": "2025-07-28T17:32:02.488015",
     "district": 8
   },
   {
@@ -465,7 +465,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/V000135?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837628",
+    "lastUpdated": "2025-07-28T17:32:02.488018",
     "district": 3
   },
   {
@@ -479,7 +479,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000600?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837635",
+    "lastUpdated": "2025-07-28T17:32:02.488021",
     "district": 3
   },
   {
@@ -493,7 +493,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001096?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837643",
+    "lastUpdated": "2025-07-28T17:32:02.488024",
     "district": null
   },
   {
@@ -507,7 +507,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001318?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837651",
+    "lastUpdated": "2025-07-28T17:32:02.488026",
     "district": null
   },
   {
@@ -521,7 +521,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001159?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837659",
+    "lastUpdated": "2025-07-28T17:32:02.488029",
     "district": 10
   },
   {
@@ -535,7 +535,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000471?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837667",
+    "lastUpdated": "2025-07-28T17:32:02.488032",
     "district": 5
   },
   {
@@ -549,7 +549,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000165?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837675",
+    "lastUpdated": "2025-07-28T17:32:02.488035",
     "district": 7
   },
   {
@@ -563,7 +563,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001205?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837683",
+    "lastUpdated": "2025-07-28T17:32:02.488038",
     "district": 1
   },
   {
@@ -577,7 +577,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001213?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837691",
+    "lastUpdated": "2025-07-28T17:32:02.488041",
     "district": 1
   },
   {
@@ -591,7 +591,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001216?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837699",
+    "lastUpdated": "2025-07-28T17:32:02.488044",
     "district": 8
   },
   {
@@ -605,7 +605,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000298?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837707",
+    "lastUpdated": "2025-07-28T17:32:02.488047",
     "district": 7
   },
   {
@@ -619,7 +619,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000576?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837715",
+    "lastUpdated": "2025-07-28T17:32:02.488050",
     "district": 6
   },
   {
@@ -633,7 +633,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/N000189?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837723",
+    "lastUpdated": "2025-07-28T17:32:02.488052",
     "district": 4
   },
   {
@@ -647,7 +647,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/P000610?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837731",
+    "lastUpdated": "2025-07-28T17:32:02.488055",
     "district": null
   },
   {
@@ -661,7 +661,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/P000607?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837739",
+    "lastUpdated": "2025-07-28T17:32:02.488058",
     "district": 2
   },
   {
@@ -675,7 +675,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000617?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837747",
+    "lastUpdated": "2025-07-28T17:32:02.488061",
     "district": 1
   },
   {
@@ -689,7 +689,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S000510?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837755",
+    "lastUpdated": "2025-07-28T17:32:02.488064",
     "district": 9
   },
   {
@@ -703,7 +703,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001160?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837763",
+    "lastUpdated": "2025-07-28T17:32:02.488066",
     "district": 4
   },
   {
@@ -717,7 +717,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000560?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837771",
+    "lastUpdated": "2025-07-28T17:32:02.488069",
     "district": 2
   },
   {
@@ -731,7 +731,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/V000138?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837780",
+    "lastUpdated": "2025-07-28T17:32:02.488072",
     "district": 7
   },
   {
@@ -745,7 +745,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001230?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837788",
+    "lastUpdated": "2025-07-28T17:32:02.488075",
     "district": 10
   },
   {
@@ -759,7 +759,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001239?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837797",
+    "lastUpdated": "2025-07-28T17:32:02.488078",
     "district": 5
   },
   {
@@ -773,7 +773,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000403?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837805",
+    "lastUpdated": "2025-07-28T17:32:02.488081",
     "district": 3
   },
   {
@@ -787,7 +787,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000310?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837813",
+    "lastUpdated": "2025-07-28T17:32:02.488084",
     "district": 32
   },
   {
@@ -801,7 +801,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000603?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837821",
+    "lastUpdated": "2025-07-28T17:32:02.488087",
     "district": 26
   },
   {
@@ -815,7 +815,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001228?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837829",
+    "lastUpdated": "2025-07-28T17:32:02.488089",
     "district": 2
   },
   {
@@ -829,7 +829,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001227?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837836",
+    "lastUpdated": "2025-07-28T17:32:02.488092",
     "district": 4
   },
   {
@@ -843,7 +843,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000399?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837844",
+    "lastUpdated": "2025-07-28T17:32:02.488095",
     "district": 2
   },
   {
@@ -857,7 +857,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001095?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837852",
+    "lastUpdated": "2025-07-28T17:32:02.488098",
     "district": 38
   },
   {
@@ -871,7 +871,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001130?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837860",
+    "lastUpdated": "2025-07-28T17:32:02.488104",
     "district": 30
   },
   {
@@ -885,7 +885,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001131?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837868",
+    "lastUpdated": "2025-07-28T17:32:02.488107",
     "district": 35
   },
   {
@@ -899,7 +899,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/V000134?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837876",
+    "lastUpdated": "2025-07-28T17:32:02.488110",
     "district": 24
   },
   {
@@ -913,7 +913,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/O000086?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837884",
+    "lastUpdated": "2025-07-28T17:32:02.488113",
     "district": 4
   },
   {
@@ -927,7 +927,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/N000026?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837892",
+    "lastUpdated": "2025-07-28T17:32:02.488116",
     "district": 22
   },
   {
@@ -941,7 +941,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001213?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837900",
+    "lastUpdated": "2025-07-28T17:32:02.488119",
     "district": 1
   },
   {
@@ -955,7 +955,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000594?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837908",
+    "lastUpdated": "2025-07-28T17:32:02.488122",
     "district": 23
   },
   {
@@ -969,7 +969,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001118?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837916",
+    "lastUpdated": "2025-07-28T17:32:02.488125",
     "district": 6
   },
   {
@@ -983,7 +983,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000587?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837924",
+    "lastUpdated": "2025-07-28T17:32:02.488127",
     "district": 29
   },
   {
@@ -997,7 +997,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000614?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837932",
+    "lastUpdated": "2025-07-28T17:32:02.488131",
     "district": 21
   },
   {
@@ -1011,7 +1011,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001115?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837940",
+    "lastUpdated": "2025-07-28T17:32:02.488133",
     "district": 27
   },
   {
@@ -1025,7 +1025,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000581?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837947",
+    "lastUpdated": "2025-07-28T17:32:02.488136",
     "district": 34
   },
   {
@@ -1039,7 +1039,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001292?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837968",
+    "lastUpdated": "2025-07-28T17:32:02.488139",
     "district": 8
   },
   {
@@ -1053,7 +1053,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001291?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837978",
+    "lastUpdated": "2025-07-28T17:32:02.488142",
     "district": 36
   },
   {
@@ -1067,7 +1067,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/V000131?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837987",
+    "lastUpdated": "2025-07-28T17:32:02.488144",
     "district": 33
   },
   {
@@ -1081,7 +1081,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/W000816?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.837997",
+    "lastUpdated": "2025-07-28T17:32:02.488149",
     "district": 25
   },
   {
@@ -1095,7 +1095,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/W000804?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838005",
+    "lastUpdated": "2025-07-28T17:32:02.488152",
     "district": 1
   },
   {
@@ -1109,7 +1109,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000568?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838013",
+    "lastUpdated": "2025-07-28T17:32:02.488155",
     "district": 9
   },
   {
@@ -1123,7 +1123,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S000185?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838022",
+    "lastUpdated": "2025-07-28T17:32:02.488158",
     "district": 3
   },
   {
@@ -1137,7 +1137,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001063?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838030",
+    "lastUpdated": "2025-07-28T17:32:02.488161",
     "district": 28
   },
   {
@@ -1151,7 +1151,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001051?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838037",
+    "lastUpdated": "2025-07-28T17:32:02.488163",
     "district": 31
   },
   {
@@ -1165,7 +1165,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000399?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838046",
+    "lastUpdated": "2025-07-28T17:32:02.488168",
     "district": 37
   },
   {
@@ -1179,7 +1179,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000601?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838053",
+    "lastUpdated": "2025-07-28T17:32:02.488171",
     "district": 12
   },
   {
@@ -1193,7 +1193,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001325?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838061",
+    "lastUpdated": "2025-07-28T17:32:02.488174",
     "district": 3
   },
   {
@@ -1207,7 +1207,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001224?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838074",
+    "lastUpdated": "2025-07-28T17:32:02.488177",
     "district": 3
   },
   {
@@ -1221,7 +1221,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/O000175?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838083",
+    "lastUpdated": "2025-07-28T17:32:02.488180",
     "district": 5
   },
   {
@@ -1235,7 +1235,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001224?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838091",
+    "lastUpdated": "2025-07-28T17:32:02.488182",
     "district": 1
   },
   {
@@ -1249,7 +1249,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000603?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838099",
+    "lastUpdated": "2025-07-28T17:32:02.488185",
     "district": 8
   },
   {
@@ -1263,7 +1263,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000478?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838107",
+    "lastUpdated": "2025-07-28T17:32:02.488188",
     "district": 7
   },
   {
@@ -1277,7 +1277,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000594?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838115",
+    "lastUpdated": "2025-07-28T17:32:02.488191",
     "district": 15
   },
   {
@@ -1291,7 +1291,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/E000071?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838123",
+    "lastUpdated": "2025-07-28T17:32:02.488194",
     "district": 6
   },
   {
@@ -1305,7 +1305,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/P000048?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838132",
+    "lastUpdated": "2025-07-28T17:32:02.488196",
     "district": 11
   },
   {
@@ -1319,7 +1319,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000304?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838140",
+    "lastUpdated": "2025-07-28T17:32:02.488199",
     "district": 13
   },
   {
@@ -1333,7 +1333,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001086?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838148",
+    "lastUpdated": "2025-07-28T17:32:02.488202",
     "district": 1
   },
   {
@@ -1347,7 +1347,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000246?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838156",
+    "lastUpdated": "2025-07-28T17:32:02.488205",
     "district": 4
   },
   {
@@ -1361,7 +1361,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/E000299?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838164",
+    "lastUpdated": "2025-07-28T17:32:02.488207",
     "district": 16
   },
   {
@@ -1375,7 +1375,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000468?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838172",
+    "lastUpdated": "2025-07-28T17:32:02.488210",
     "district": 7
   },
   {
@@ -1389,7 +1389,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000589?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838180",
+    "lastUpdated": "2025-07-28T17:32:02.488213",
     "district": 5
   },
   {
@@ -1403,7 +1403,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001120?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838188",
+    "lastUpdated": "2025-07-28T17:32:02.488216",
     "district": 2
   },
   {
@@ -1417,7 +1417,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000612?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838196",
+    "lastUpdated": "2025-07-28T17:32:02.488218",
     "district": 6
   },
   {
@@ -1431,7 +1431,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001309?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838204",
+    "lastUpdated": "2025-07-28T17:32:02.488221",
     "district": 2
   },
   {
@@ -1445,7 +1445,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000301?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838211",
+    "lastUpdated": "2025-07-28T17:32:02.488224",
     "district": null
   },
   {
@@ -1459,7 +1459,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000480?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838219",
+    "lastUpdated": "2025-07-28T17:32:02.488228",
     "district": 4
   },
   {
@@ -1473,7 +1473,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/N000190?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838227",
+    "lastUpdated": "2025-07-28T17:32:02.488231",
     "district": 5
   },
   {
@@ -1487,7 +1487,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/A000375?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838235",
+    "lastUpdated": "2025-07-28T17:32:02.488234",
     "district": 19
   },
   {
@@ -1501,7 +1501,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000392?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838248",
+    "lastUpdated": "2025-07-28T17:32:02.488237",
     "district": 8
   },
   {
@@ -1515,7 +1515,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001091?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838256",
+    "lastUpdated": "2025-07-28T17:32:02.488239",
     "district": 20
   },
   {
@@ -1529,7 +1529,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/W000814?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838266",
+    "lastUpdated": "2025-07-28T17:32:02.488466",
     "district": 14
   },
   {
@@ -1543,7 +1543,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000616?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838274",
+    "lastUpdated": "2025-07-28T17:32:02.488470",
     "district": 4
   },
   {
@@ -1557,7 +1557,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000459?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838283",
+    "lastUpdated": "2025-07-28T17:32:02.488473",
     "district": 3
   },
   {
@@ -1571,7 +1571,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001068?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838291",
+    "lastUpdated": "2025-07-28T17:32:02.488476",
     "district": 9
   },
   {
@@ -1585,7 +1585,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S000250?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838299",
+    "lastUpdated": "2025-07-28T17:32:02.488479",
     "district": 17
   },
   {
@@ -1599,7 +1599,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001157?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838307",
+    "lastUpdated": "2025-07-28T17:32:02.488482",
     "district": 10
   },
   {
@@ -1613,7 +1613,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000553?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838314",
+    "lastUpdated": "2025-07-28T17:32:02.488484",
     "district": 9
   },
   {
@@ -1627,7 +1627,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C000537?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838322",
+    "lastUpdated": "2025-07-28T17:32:02.488487",
     "district": 6
   },
   {
@@ -1641,7 +1641,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001230?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838330",
+    "lastUpdated": "2025-07-28T17:32:02.488490",
     "district": 7
   },
   {
@@ -1655,7 +1655,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001103?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838338",
+    "lastUpdated": "2025-07-28T17:32:02.488493",
     "district": null
   },
   {
@@ -1669,7 +1669,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000635?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838346",
+    "lastUpdated": "2025-07-28T17:32:02.488496",
     "district": 3
   },
   {
@@ -1683,7 +1683,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001327?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838354",
+    "lastUpdated": "2025-07-28T17:32:02.488498",
     "district": 8
   },
   {
@@ -1697,7 +1697,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001326?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838362",
+    "lastUpdated": "2025-07-28T17:32:02.488501",
     "district": 5
   },
   {
@@ -1711,7 +1711,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/A000380?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838374",
+    "lastUpdated": "2025-07-28T17:32:02.488504",
     "district": 1
   },
   {
@@ -1725,7 +1725,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001226?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838383",
+    "lastUpdated": "2025-07-28T17:32:02.488507",
     "district": 6
   },
   {
@@ -1739,7 +1739,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001223?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838391",
+    "lastUpdated": "2025-07-28T17:32:02.488509",
     "district": 2
   },
   {
@@ -1753,7 +1753,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000602?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838399",
+    "lastUpdated": "2025-07-28T17:32:02.488512",
     "district": 12
   },
   {
@@ -1767,7 +1767,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001094?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838406",
+    "lastUpdated": "2025-07-28T17:32:02.488519",
     "district": 4
   },
   {
@@ -1781,7 +1781,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000530?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838414",
+    "lastUpdated": "2025-07-28T17:32:02.488521",
     "district": 17
   },
   {
@@ -1795,7 +1795,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001317?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838422",
+    "lastUpdated": "2025-07-28T17:32:02.488524",
     "district": 2
   },
   {
@@ -1809,7 +1809,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M000194?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838436",
+    "lastUpdated": "2025-07-28T17:32:02.488527",
     "district": 1
   },
   {
@@ -1823,7 +1823,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B000740?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838445",
+    "lastUpdated": "2025-07-28T17:32:02.488530",
     "district": 5
   },
   {
@@ -1837,7 +1837,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B000668?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838453",
+    "lastUpdated": "2025-07-28T17:32:02.488533",
     "district": 2
   },
   {
@@ -1851,7 +1851,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000610?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838461",
+    "lastUpdated": "2025-07-28T17:32:02.488536",
     "district": 14
   },
   {
@@ -1865,7 +1865,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000302?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838468",
+    "lastUpdated": "2025-07-28T17:32:02.488539",
     "district": 13
   },
   {
@@ -1879,7 +1879,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001204?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838476",
+    "lastUpdated": "2025-07-28T17:32:02.488541",
     "district": 9
   },
   {
@@ -1893,7 +1893,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000631?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838484",
+    "lastUpdated": "2025-07-28T17:32:02.488544",
     "district": 4
   },
   {
@@ -1907,7 +1907,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001082?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838492",
+    "lastUpdated": "2025-07-28T17:32:02.488559",
     "district": 1
   },
   {
@@ -1921,7 +1921,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001205?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838500",
+    "lastUpdated": "2025-07-28T17:32:02.488562",
     "district": 5
   },
   {
@@ -1935,7 +1935,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001199?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838508",
+    "lastUpdated": "2025-07-28T17:32:02.488564",
     "district": 11
   },
   {
@@ -1949,7 +1949,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000466?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838516",
+    "lastUpdated": "2025-07-28T17:32:02.488567",
     "district": 1
   },
   {
@@ -1963,7 +1963,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/E000296?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838524",
+    "lastUpdated": "2025-07-28T17:32:02.488570",
     "district": 3
   },
   {
@@ -1977,7 +1977,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001296?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838532",
+    "lastUpdated": "2025-07-28T17:32:02.488573",
     "district": 2
   },
   {
@@ -1991,7 +1991,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/P000605?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838540",
+    "lastUpdated": "2025-07-28T17:32:02.488576",
     "district": 10
   },
   {
@@ -2005,7 +2005,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001278?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838548",
+    "lastUpdated": "2025-07-28T17:32:02.488578",
     "district": 1
   },
   {
@@ -2019,7 +2019,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000376?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838555",
+    "lastUpdated": "2025-07-28T17:32:02.488581",
     "district": 16
   },
   {
@@ -2033,7 +2033,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000467?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838563",
+    "lastUpdated": "2025-07-28T17:32:02.488584",
     "district": 15
   },
   {
@@ -2047,7 +2047,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000491?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838571",
+    "lastUpdated": "2025-07-28T17:32:02.488586",
     "district": 3
   },
   {
@@ -2061,7 +2061,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001053?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838579",
+    "lastUpdated": "2025-07-28T17:32:02.488589",
     "district": 4
   },
   {
@@ -2075,7 +2075,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/W000795?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838587",
+    "lastUpdated": "2025-07-28T17:32:02.488594",
     "district": 2
   },
   {
@@ -2089,7 +2089,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000490?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838595",
+    "lastUpdated": "2025-07-28T17:32:02.488597",
     "district": 2
   },
   {
@@ -2103,7 +2103,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000622?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838608",
+    "lastUpdated": "2025-07-28T17:32:02.488600",
     "district": 19
   },
   {
@@ -2117,7 +2117,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001231?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838617",
+    "lastUpdated": "2025-07-28T17:32:02.488603",
     "district": 22
   },
   {
@@ -2131,7 +2131,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000606?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838625",
+    "lastUpdated": "2025-07-28T17:32:02.488606",
     "district": 16
   },
   {
@@ -2145,7 +2145,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000619?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838633",
+    "lastUpdated": "2025-07-28T17:32:02.488609",
     "district": 6
   },
   {
@@ -2159,7 +2159,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000402?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838641",
+    "lastUpdated": "2025-07-28T17:32:02.488612",
     "district": 26
   },
   {
@@ -2173,7 +2173,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001223?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838649",
+    "lastUpdated": "2025-07-28T17:32:02.488614",
     "district": 13
   },
   {
@@ -2187,7 +2187,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001222?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838657",
+    "lastUpdated": "2025-07-28T17:32:02.488617",
     "district": 7
   },
   {
@@ -2201,7 +2201,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000599?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838664",
+    "lastUpdated": "2025-07-28T17:32:02.488620",
     "district": 17
   },
   {
@@ -2215,7 +2215,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000600?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838673",
+    "lastUpdated": "2025-07-28T17:32:02.488623",
     "district": 23
   },
   {
@@ -2229,7 +2229,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000601?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838681",
+    "lastUpdated": "2025-07-28T17:32:02.488626",
     "district": 1
   },
   {
@@ -2243,7 +2243,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000579?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838689",
+    "lastUpdated": "2025-07-28T17:32:02.488628",
     "district": 18
   },
   {
@@ -2257,7 +2257,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001126?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838697",
+    "lastUpdated": "2025-07-28T17:32:02.488631",
     "district": 15
   },
   {
@@ -2271,7 +2271,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001313?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838705",
+    "lastUpdated": "2025-07-28T17:32:02.488634",
     "district": 11
   },
   {
@@ -2285,7 +2285,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000486?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838713",
+    "lastUpdated": "2025-07-28T17:32:02.488637",
     "district": 15
   },
   {
@@ -2299,7 +2299,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/O000172?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838721",
+    "lastUpdated": "2025-07-28T17:32:02.488640",
     "district": 14
   },
   {
@@ -2313,7 +2313,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001206?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838729",
+    "lastUpdated": "2025-07-28T17:32:02.488643",
     "district": 25
   },
   {
@@ -2327,7 +2327,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001306?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838737",
+    "lastUpdated": "2025-07-28T17:32:02.488645",
     "district": 12
   },
   {
@@ -2341,7 +2341,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000478?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838745",
+    "lastUpdated": "2025-07-28T17:32:02.488648",
     "district": 24
   },
   {
@@ -2355,7 +2355,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/E000297?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838755",
+    "lastUpdated": "2025-07-28T17:32:02.488651",
     "district": 13
   },
   {
@@ -2369,7 +2369,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000626?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838763",
+    "lastUpdated": "2025-07-28T17:32:02.488656",
     "district": 8
   },
   {
@@ -2383,7 +2383,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001196?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838771",
+    "lastUpdated": "2025-07-28T17:32:02.488658",
     "district": 21
   },
   {
@@ -2397,7 +2397,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000295?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838784",
+    "lastUpdated": "2025-07-28T17:32:02.488661",
     "district": 14
   },
   {
@@ -2411,7 +2411,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001281?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838797",
+    "lastUpdated": "2025-07-28T17:32:02.488665",
     "district": 3
   },
   {
@@ -2425,7 +2425,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000566?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838873",
+    "lastUpdated": "2025-07-28T17:32:02.488668",
     "district": 5
   },
   {
@@ -2439,7 +2439,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000289?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838886",
+    "lastUpdated": "2025-07-28T17:32:02.488671",
     "district": 4
   },
   {
@@ -2453,7 +2453,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000469?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838900",
+    "lastUpdated": "2025-07-28T17:32:02.488674",
     "district": 20
   },
   {
@@ -2467,7 +2467,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/N000002?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838915",
+    "lastUpdated": "2025-07-28T17:32:02.488677",
     "district": 12
   },
   {
@@ -2481,7 +2481,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000463?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838924",
+    "lastUpdated": "2025-07-28T17:32:02.488681",
     "district": 10
   },
   {
@@ -2495,7 +2495,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000009?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838932",
+    "lastUpdated": "2025-07-28T17:32:02.488684",
     "district": 9
   },
   {
@@ -2509,7 +2509,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/P000621?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838940",
+    "lastUpdated": "2025-07-28T17:32:02.488687",
     "district": 9
   },
   {
@@ -2523,7 +2523,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000604?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838949",
+    "lastUpdated": "2025-07-28T17:32:02.488690",
     "district": 2
   },
   {
@@ -2537,7 +2537,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000602?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838957",
+    "lastUpdated": "2025-07-28T17:32:02.488693",
     "district": 4
   },
   {
@@ -2551,7 +2551,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001136?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838964",
+    "lastUpdated": "2025-07-28T17:32:02.488696",
     "district": 3
   },
   {
@@ -2565,7 +2565,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/V000136?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838972",
+    "lastUpdated": "2025-07-28T17:32:02.488699",
     "district": 2
   },
   {
@@ -2579,7 +2579,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000598?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838980",
+    "lastUpdated": "2025-07-28T17:32:02.488702",
     "district": 1
   },
   {
@@ -2593,7 +2593,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000398?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838988",
+    "lastUpdated": "2025-07-28T17:32:02.488704",
     "district": 7
   },
   {
@@ -2607,7 +2607,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000599?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.838996",
+    "lastUpdated": "2025-07-28T17:32:02.488707",
     "district": 10
   },
   {
@@ -2621,7 +2621,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001218?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839004",
+    "lastUpdated": "2025-07-28T17:32:02.488710",
     "district": 1
   },
   {
@@ -2635,7 +2635,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M000317?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839012",
+    "lastUpdated": "2025-07-28T17:32:02.488713",
     "district": 11
   },
   {
@@ -2649,7 +2649,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000273?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839020",
+    "lastUpdated": "2025-07-28T17:32:02.488716",
     "district": 3
   },
   {
@@ -2663,7 +2663,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000597?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839028",
+    "lastUpdated": "2025-07-28T17:32:02.488720",
     "district": 2
   },
   {
@@ -2677,7 +2677,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000590?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839036",
+    "lastUpdated": "2025-07-28T17:32:02.488723",
     "district": 3
   },
   {
@@ -2691,7 +2691,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001207?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839052",
+    "lastUpdated": "2025-07-28T17:32:02.488726",
     "district": 11
   },
   {
@@ -2705,7 +2705,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/V000133?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839061",
+    "lastUpdated": "2025-07-28T17:32:02.488729",
     "district": 2
   },
   {
@@ -2719,7 +2719,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/P000614?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839069",
+    "lastUpdated": "2025-07-28T17:32:02.488732",
     "district": 1
   },
   {
@@ -2733,7 +2733,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001201?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839078",
+    "lastUpdated": "2025-07-28T17:32:02.488735",
     "district": 3
   },
   {
@@ -2747,7 +2747,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000583?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839086",
+    "lastUpdated": "2025-07-28T17:32:02.488738",
     "district": 5
   },
   {
@@ -2761,7 +2761,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/W000822?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839094",
+    "lastUpdated": "2025-07-28T17:32:02.488740",
     "district": 12
   },
   {
@@ -2775,7 +2775,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/N000188?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839102",
+    "lastUpdated": "2025-07-28T17:32:02.488743",
     "district": 1
   },
   {
@@ -2789,7 +2789,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000294?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839110",
+    "lastUpdated": "2025-07-28T17:32:02.488746",
     "district": 8
   },
   {
@@ -2803,7 +2803,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001188?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839117",
+    "lastUpdated": "2025-07-28T17:32:02.488748",
     "district": 6
   },
   {
@@ -2817,7 +2817,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001066?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839126",
+    "lastUpdated": "2025-07-28T17:32:02.488751",
     "district": 4
   },
   {
@@ -2831,7 +2831,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/A000369?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839134",
+    "lastUpdated": "2025-07-28T17:32:02.488755",
     "district": 2
   },
   {
@@ -2845,7 +2845,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001067?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839142",
+    "lastUpdated": "2025-07-28T17:32:02.488758",
     "district": 9
   },
   {
@@ -2859,7 +2859,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000468?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839150",
+    "lastUpdated": "2025-07-28T17:32:02.488760",
     "district": 1
   },
   {
@@ -2873,7 +2873,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/P000034?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839197",
+    "lastUpdated": "2025-07-28T17:32:02.488764",
     "district": 6
   },
   {
@@ -2887,7 +2887,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001137?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839217",
+    "lastUpdated": "2025-07-28T17:32:02.488766",
     "district": 5
   },
   {
@@ -2901,7 +2901,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/V000081?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839235",
+    "lastUpdated": "2025-07-28T17:32:02.488770",
     "district": 7
   },
   {
@@ -2915,7 +2915,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S000522?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.839776",
+    "lastUpdated": "2025-07-28T17:32:02.488773",
     "district": 4
   },
   {
@@ -2929,7 +2929,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001240?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840500",
+    "lastUpdated": "2025-07-28T17:32:02.488776",
     "district": 6
   },
   {
@@ -2943,7 +2943,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001236?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840515",
+    "lastUpdated": "2025-07-28T17:32:02.488779",
     "district": 14
   },
   {
@@ -2957,7 +2957,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000405?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840524",
+    "lastUpdated": "2025-07-28T17:32:02.488782",
     "district": 13
   },
   {
@@ -2971,7 +2971,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001102?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840531",
+    "lastUpdated": "2025-07-28T17:32:02.488786",
     "district": 8
   },
   {
@@ -2985,7 +2985,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001101?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840547",
+    "lastUpdated": "2025-07-28T17:32:02.488789",
     "district": 10
   },
   {
@@ -2999,7 +2999,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000482?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840555",
+    "lastUpdated": "2025-07-28T17:32:02.488792",
     "district": null
   },
   {
@@ -3013,7 +3013,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/E000246?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840564",
+    "lastUpdated": "2025-07-28T17:32:02.488795",
     "district": 11
   },
   {
@@ -3027,7 +3027,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000474?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840570",
+    "lastUpdated": "2025-07-28T17:32:02.488798",
     "district": 1
   },
   {
@@ -3041,7 +3041,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001298?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840576",
+    "lastUpdated": "2025-07-28T17:32:02.488801",
     "district": 2
   },
   {
@@ -3055,7 +3055,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000603?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840583",
+    "lastUpdated": "2025-07-28T17:32:02.488803",
     "district": 7
   },
   {
@@ -3069,7 +3069,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/A000370?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840590",
+    "lastUpdated": "2025-07-28T17:32:02.488806",
     "district": 12
   },
   {
@@ -3083,7 +3083,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001067?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840596",
+    "lastUpdated": "2025-07-28T17:32:02.488809",
     "district": 9
   },
   {
@@ -3097,7 +3097,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001172?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840602",
+    "lastUpdated": "2025-07-28T17:32:02.488812",
     "district": 3
   },
   {
@@ -3111,7 +3111,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000450?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840613",
+    "lastUpdated": "2025-07-28T17:32:02.488814",
     "district": 5
   },
   {
@@ -3125,7 +3125,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/O000177?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840620",
+    "lastUpdated": "2025-07-28T17:32:02.488817",
     "district": 3
   },
   {
@@ -3139,7 +3139,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001234?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840627",
+    "lastUpdated": "2025-07-28T17:32:02.488820",
     "district": 3
   },
   {
@@ -3153,7 +3153,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000404?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840634",
+    "lastUpdated": "2025-07-28T17:32:02.488823",
     "district": null
   },
   {
@@ -3167,7 +3167,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000634?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840640",
+    "lastUpdated": "2025-07-28T17:32:02.488826",
     "district": 2
   },
   {
@@ -3181,7 +3181,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001324?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840647",
+    "lastUpdated": "2025-07-28T17:32:02.488829",
     "district": 1
   },
   {
@@ -3195,7 +3195,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000307?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840653",
+    "lastUpdated": "2025-07-28T17:32:02.488831",
     "district": 10
   },
   {
@@ -3209,7 +3209,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/E000235?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840659",
+    "lastUpdated": "2025-07-28T17:32:02.488836",
     "district": 4
   },
   {
@@ -3223,7 +3223,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000230?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840666",
+    "lastUpdated": "2025-07-28T17:32:02.488839",
     "district": 1
   },
   {
@@ -3237,7 +3237,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001316?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840673",
+    "lastUpdated": "2025-07-28T17:32:02.488842",
     "district": 7
   },
   {
@@ -3251,7 +3251,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/A000379?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840679",
+    "lastUpdated": "2025-07-28T17:32:02.488846",
     "district": 4
   },
   {
@@ -3265,7 +3265,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000475?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840689",
+    "lastUpdated": "2025-07-28T17:32:02.488851",
     "district": 1
   },
   {
@@ -3279,7 +3279,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000305?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840700",
+    "lastUpdated": "2025-07-28T17:32:02.488854",
     "district": 2
   },
   {
@@ -3293,7 +3293,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000470?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840707",
+    "lastUpdated": "2025-07-28T17:32:02.488857",
     "district": 7
   },
   {
@@ -3307,7 +3307,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001210?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840714",
+    "lastUpdated": "2025-07-28T17:32:02.488860",
     "district": 3
   },
   {
@@ -3321,7 +3321,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000591?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840720",
+    "lastUpdated": "2025-07-28T17:32:02.488863",
     "district": 3
   },
   {
@@ -3335,7 +3335,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001212?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840727",
+    "lastUpdated": "2025-07-28T17:32:02.488865",
     "district": 8
   },
   {
@@ -3349,7 +3349,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/O000173?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840733",
+    "lastUpdated": "2025-07-28T17:32:02.488868",
     "district": 5
   },
   {
@@ -3363,7 +3363,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001119?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840739",
+    "lastUpdated": "2025-07-28T17:32:02.488871",
     "district": 2
   },
   {
@@ -3377,7 +3377,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000481?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840745",
+    "lastUpdated": "2025-07-28T17:32:02.488874",
     "district": 12
   },
   {
@@ -3391,7 +3391,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001215?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840752",
+    "lastUpdated": "2025-07-28T17:32:02.488877",
     "district": 11
   },
   {
@@ -3405,7 +3405,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000388?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840758",
+    "lastUpdated": "2025-07-28T17:32:02.488879",
     "district": 1
   },
   {
@@ -3419,7 +3419,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/Z000018?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840764",
+    "lastUpdated": "2025-07-28T17:32:02.488882",
     "district": 1
   },
   {
@@ -3433,7 +3433,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/E000294?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840770",
+    "lastUpdated": "2025-07-28T17:32:02.488885",
     "district": 6
   },
   {
@@ -3447,7 +3447,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/W000812?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840777",
+    "lastUpdated": "2025-07-28T17:32:02.488888",
     "district": 2
   },
   {
@@ -3461,7 +3461,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001195?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840783",
+    "lastUpdated": "2025-07-28T17:32:02.488890",
     "district": 8
   },
   {
@@ -3475,7 +3475,7 @@
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000193?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:12:47.840789",
+    "lastUpdated": "2025-07-28T17:32:02.488893",
     "district": 2
   }
 ]
