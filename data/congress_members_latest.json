@@ -6,12 +6,12 @@
     "lastName": "Green",
     "party": "Republican",
     "state": "Tennessee",
-    "district": 7,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000590?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200122"
+    "lastUpdated": "2025-07-28T13:12:47.837329",
+    "district": 7
   },
   {
     "id": "C000488",
@@ -20,12 +20,12 @@
     "lastName": "Clay",
     "party": "Democratic",
     "state": "Missouri",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C000488?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200144"
+    "lastUpdated": "2025-07-28T13:12:47.837361",
+    "district": 1
   },
   {
     "id": "M001233",
@@ -34,12 +34,12 @@
     "lastName": "Messmer",
     "party": "Republican",
     "state": "Indiana",
-    "district": 8,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001233?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200151"
+    "lastUpdated": "2025-07-28T13:12:47.837373",
+    "district": 8
   },
   {
     "id": "M000309",
@@ -48,12 +48,12 @@
     "lastName": "McCarthy",
     "party": "Democratic",
     "state": "New York",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M000309?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200158"
+    "lastUpdated": "2025-07-28T13:12:47.837383",
+    "district": 4
   },
   {
     "id": "W000520",
@@ -62,12 +62,12 @@
     "lastName": "Williams",
     "party": "Democratic",
     "state": "Montana",
-    "district": null,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/W000520?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200164"
+    "lastUpdated": "2025-07-28T13:12:47.837392",
+    "district": null
   },
   {
     "id": "F000460",
@@ -76,12 +76,12 @@
     "lastName": "Farenthold",
     "party": "Republican",
     "state": "Texas",
-    "district": 27,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000460?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200170"
+    "lastUpdated": "2025-07-28T13:12:47.837401",
+    "district": 27
   },
   {
     "id": "N000019",
@@ -90,12 +90,12 @@
     "lastName": "Nedzi",
     "party": "Democratic",
     "state": "Michigan",
-    "district": 14,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/N000019?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200176"
+    "lastUpdated": "2025-07-28T13:12:47.837410",
+    "district": 14
   },
   {
     "id": "R000617",
@@ -104,12 +104,12 @@
     "lastName": "Ramirez",
     "party": "Democratic",
     "state": "Illinois",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000617?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200182"
+    "lastUpdated": "2025-07-28T13:12:47.837418",
+    "district": 3
   },
   {
     "id": "S001232",
@@ -118,12 +118,11 @@
     "lastName": "Sheehy",
     "party": "Republican",
     "state": "Montana",
-    "district": null,
     "chamber": "Senate",
     "title": "Senator",
     "url": "https://api.congress.gov/v3/member/S001232?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200188"
+    "lastUpdated": "2025-07-28T13:12:47.837426"
   },
   {
     "id": "L000570",
@@ -132,12 +131,11 @@
     "lastName": "Luj\u00e1n",
     "party": "Democratic",
     "state": "New Mexico",
-    "district": null,
     "chamber": "Senate",
     "title": "Senator",
     "url": "https://api.congress.gov/v3/member/L000570?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200194"
+    "lastUpdated": "2025-07-28T13:12:47.837436"
   },
   {
     "id": "H001089",
@@ -146,12 +144,11 @@
     "lastName": "Hawley",
     "party": "Republican",
     "state": "Missouri",
-    "district": null,
     "chamber": "Senate",
     "title": "Senator",
     "url": "https://api.congress.gov/v3/member/H001089?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200200"
+    "lastUpdated": "2025-07-28T13:12:47.837444"
   },
   {
     "id": "R000053",
@@ -160,12 +157,12 @@
     "lastName": "Rangel",
     "party": "Democratic",
     "state": "New York",
-    "district": 13,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000053?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200206"
+    "lastUpdated": "2025-07-28T13:12:47.837452",
+    "district": 13
   },
   {
     "id": "W000800",
@@ -174,12 +171,11 @@
     "lastName": "Welch",
     "party": "Democratic",
     "state": "Vermont",
-    "district": null,
     "chamber": "Senate",
     "title": "Senator",
     "url": "https://api.congress.gov/v3/member/W000800?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200211"
+    "lastUpdated": "2025-07-28T13:12:47.837460"
   },
   {
     "id": "C001078",
@@ -188,12 +184,12 @@
     "lastName": "Connolly",
     "party": "Democratic",
     "state": "Virginia",
-    "district": 11,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001078?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200216"
+    "lastUpdated": "2025-07-28T13:12:47.837468",
+    "district": 11
   },
   {
     "id": "M001242",
@@ -202,12 +198,11 @@
     "lastName": "Moreno",
     "party": "Republican",
     "state": "Ohio",
-    "district": null,
     "chamber": "Senate",
     "title": "Senator",
     "url": "https://api.congress.gov/v3/member/M001242?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200222"
+    "lastUpdated": "2025-07-28T13:12:47.837476"
   },
   {
     "id": "B000611",
@@ -216,12 +211,11 @@
     "lastName": "Bond",
     "party": "Republican",
     "state": "Missouri",
-    "district": null,
     "chamber": "Senate",
     "title": "Senator",
     "url": "https://api.congress.gov/v3/member/B000611?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200227"
+    "lastUpdated": "2025-07-28T13:12:47.837483"
   },
   {
     "id": "M001229",
@@ -230,12 +224,12 @@
     "lastName": "McIver",
     "party": "Democratic",
     "state": "New Jersey",
-    "district": 10,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001229?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200233"
+    "lastUpdated": "2025-07-28T13:12:47.837491",
+    "district": 10
   },
   {
     "id": "H001085",
@@ -244,12 +238,12 @@
     "lastName": "Houlahan",
     "party": "Democratic",
     "state": "Pennsylvania",
-    "district": 6,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001085?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200238"
+    "lastUpdated": "2025-07-28T13:12:47.837499",
+    "district": 6
   },
   {
     "id": "M001244",
@@ -258,12 +252,11 @@
     "lastName": "Moody",
     "party": "Republican",
     "state": "Florida",
-    "district": null,
     "chamber": "Senate",
     "title": "Senator",
     "url": "https://api.congress.gov/v3/member/M001244?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200243"
+    "lastUpdated": "2025-07-28T13:12:47.837507"
   },
   {
     "id": "M000566",
@@ -272,12 +265,12 @@
     "lastName": "McMillan",
     "party": "Republican",
     "state": "North Carolina",
-    "district": 9,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M000566?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200248"
+    "lastUpdated": "2025-07-28T13:12:47.837515",
+    "district": 9
   },
   {
     "id": "S001101",
@@ -286,12 +279,12 @@
     "lastName": "Sweeney",
     "party": "Republican",
     "state": "Texas",
-    "district": 14,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001101?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200253"
+    "lastUpdated": "2025-07-28T13:12:47.837523",
+    "district": 14
   },
   {
     "id": "F000116",
@@ -300,12 +293,12 @@
     "lastName": "Filner",
     "party": "Democratic",
     "state": "California",
-    "district": 51,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000116?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200258"
+    "lastUpdated": "2025-07-28T13:12:47.837532",
+    "district": 51
   },
   {
     "id": "M001226",
@@ -314,12 +307,12 @@
     "lastName": "Menendez",
     "party": "Democratic",
     "state": "New Jersey",
-    "district": 8,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001226?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200264"
+    "lastUpdated": "2025-07-28T13:12:47.837540",
+    "district": 8
   },
   {
     "id": "F000477",
@@ -328,12 +321,12 @@
     "lastName": "Foushee",
     "party": "Democratic",
     "state": "North Carolina",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000477?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200269"
+    "lastUpdated": "2025-07-28T13:12:47.837548",
+    "district": 4
   },
   {
     "id": "T000488",
@@ -342,12 +335,12 @@
     "lastName": "Thanedar",
     "party": "Democratic",
     "state": "Michigan",
-    "district": 13,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000488?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200274"
+    "lastUpdated": "2025-07-28T13:12:47.837556",
+    "district": 13
   },
   {
     "id": "P000622",
@@ -356,12 +349,12 @@
     "lastName": "Patronis",
     "party": "Republican",
     "state": "Florida",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/P000622?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200280"
+    "lastUpdated": "2025-07-28T13:12:47.837564",
+    "district": 1
   },
   {
     "id": "F000484",
@@ -370,12 +363,12 @@
     "lastName": "Fine",
     "party": "Republican",
     "state": "Florida",
-    "district": 6,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000484?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200285"
+    "lastUpdated": "2025-07-28T13:12:47.837572",
+    "district": 6
   },
   {
     "id": "S001221",
@@ -384,12 +377,12 @@
     "lastName": "Scholten",
     "party": "Democratic",
     "state": "Michigan",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001221?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200290"
+    "lastUpdated": "2025-07-28T13:12:47.837580",
+    "district": 3
   },
   {
     "id": "J000299",
@@ -398,12 +391,12 @@
     "lastName": "Johnson",
     "party": "Republican",
     "state": "Louisiana",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000299?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200295"
+    "lastUpdated": "2025-07-28T13:12:47.837588",
+    "district": 4
   },
   {
     "id": "R000621",
@@ -412,12 +405,12 @@
     "lastName": "Randall",
     "party": "Democratic",
     "state": "Washington",
-    "district": 6,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000621?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200300"
+    "lastUpdated": "2025-07-28T13:12:47.837596",
+    "district": 6
   },
   {
     "id": "M001235",
@@ -426,12 +419,12 @@
     "lastName": "Moore",
     "party": "Republican",
     "state": "West Virginia",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001235?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200305"
+    "lastUpdated": "2025-07-28T13:12:47.837604",
+    "district": 2
   },
   {
     "id": "B001322",
@@ -440,12 +433,12 @@
     "lastName": "Baumgartner",
     "party": "Republican",
     "state": "Washington",
-    "district": 5,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001322?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200310"
+    "lastUpdated": "2025-07-28T13:12:47.837612",
+    "district": 5
   },
   {
     "id": "W000829",
@@ -454,12 +447,12 @@
     "lastName": "Wied",
     "party": "Republican",
     "state": "Wisconsin",
-    "district": 8,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/W000829?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200315"
+    "lastUpdated": "2025-07-28T13:12:47.837619",
+    "district": 8
   },
   {
     "id": "V000135",
@@ -468,12 +461,12 @@
     "lastName": "Van Orden",
     "party": "Republican",
     "state": "Wisconsin",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/V000135?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200321"
+    "lastUpdated": "2025-07-28T13:12:47.837628",
+    "district": 3
   },
   {
     "id": "G000600",
@@ -482,12 +475,12 @@
     "lastName": "Perez",
     "party": "Democratic",
     "state": "Washington",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000600?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200326"
+    "lastUpdated": "2025-07-28T13:12:47.837635",
+    "district": 3
   },
   {
     "id": "H001096",
@@ -496,12 +489,12 @@
     "lastName": "Hageman",
     "party": "Republican",
     "state": "Wyoming",
-    "district": null,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001096?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200331"
+    "lastUpdated": "2025-07-28T13:12:47.837643",
+    "district": null
   },
   {
     "id": "B001318",
@@ -510,12 +503,12 @@
     "lastName": "Balint",
     "party": "Democratic",
     "state": "Vermont",
-    "district": null,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001318?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200336"
+    "lastUpdated": "2025-07-28T13:12:47.837651",
+    "district": null
   },
   {
     "id": "S001159",
@@ -524,12 +517,12 @@
     "lastName": "Strickland",
     "party": "Democratic",
     "state": "Washington",
-    "district": 10,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001159?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200341"
+    "lastUpdated": "2025-07-28T13:12:47.837659",
+    "district": 10
   },
   {
     "id": "F000471",
@@ -538,12 +531,12 @@
     "lastName": "Fitzgerald",
     "party": "Republican",
     "state": "Wisconsin",
-    "district": 5,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000471?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200347"
+    "lastUpdated": "2025-07-28T13:12:47.837667",
+    "district": 5
   },
   {
     "id": "T000165",
@@ -552,12 +545,12 @@
     "lastName": "Tiffany",
     "party": "Republican",
     "state": "Wisconsin",
-    "district": 7,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000165?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200352"
+    "lastUpdated": "2025-07-28T13:12:47.837675",
+    "district": 7
   },
   {
     "id": "M001205",
@@ -566,12 +559,12 @@
     "lastName": "Miller",
     "party": "Republican",
     "state": "West Virginia",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001205?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200357"
+    "lastUpdated": "2025-07-28T13:12:47.837683",
+    "district": 1
   },
   {
     "id": "S001213",
@@ -580,12 +573,12 @@
     "lastName": "Steil",
     "party": "Republican",
     "state": "Wisconsin",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001213?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200376"
+    "lastUpdated": "2025-07-28T13:12:47.837691",
+    "district": 1
   },
   {
     "id": "S001216",
@@ -594,12 +587,12 @@
     "lastName": "Schrier",
     "party": "Democratic",
     "state": "Washington",
-    "district": 8,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001216?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200382"
+    "lastUpdated": "2025-07-28T13:12:47.837699",
+    "district": 8
   },
   {
     "id": "J000298",
@@ -608,12 +601,12 @@
     "lastName": "Jayapal",
     "party": "Democratic",
     "state": "Washington",
-    "district": 7,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000298?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200387"
+    "lastUpdated": "2025-07-28T13:12:47.837707",
+    "district": 7
   },
   {
     "id": "G000576",
@@ -622,12 +615,12 @@
     "lastName": "Grothman",
     "party": "Republican",
     "state": "Wisconsin",
-    "district": 6,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000576?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200393"
+    "lastUpdated": "2025-07-28T13:12:47.837715",
+    "district": 6
   },
   {
     "id": "N000189",
@@ -636,12 +629,12 @@
     "lastName": "Newhouse",
     "party": "Republican",
     "state": "Washington",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/N000189?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200398"
+    "lastUpdated": "2025-07-28T13:12:47.837723",
+    "district": 4
   },
   {
     "id": "P000610",
@@ -650,12 +643,12 @@
     "lastName": "Plaskett",
     "party": "Democratic",
     "state": "Virgin Islands",
-    "district": null,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/P000610?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200404"
+    "lastUpdated": "2025-07-28T13:12:47.837731",
+    "district": null
   },
   {
     "id": "P000607",
@@ -664,12 +657,12 @@
     "lastName": "Pocan",
     "party": "Democratic",
     "state": "Wisconsin",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/P000607?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200409"
+    "lastUpdated": "2025-07-28T13:12:47.837739",
+    "district": 2
   },
   {
     "id": "D000617",
@@ -678,12 +671,12 @@
     "lastName": "DelBene",
     "party": "Democratic",
     "state": "Washington",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000617?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200415"
+    "lastUpdated": "2025-07-28T13:12:47.837747",
+    "district": 1
   },
   {
     "id": "S000510",
@@ -692,12 +685,12 @@
     "lastName": "Smith",
     "party": "Democratic",
     "state": "Washington",
-    "district": 9,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S000510?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200420"
+    "lastUpdated": "2025-07-28T13:12:47.837755",
+    "district": 9
   },
   {
     "id": "M001160",
@@ -706,12 +699,12 @@
     "lastName": "Moore",
     "party": "Democratic",
     "state": "Wisconsin",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001160?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200425"
+    "lastUpdated": "2025-07-28T13:12:47.837763",
+    "district": 4
   },
   {
     "id": "L000560",
@@ -720,12 +713,12 @@
     "lastName": "Larsen",
     "party": "Democratic",
     "state": "Washington",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000560?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200430"
+    "lastUpdated": "2025-07-28T13:12:47.837771",
+    "district": 2
   },
   {
     "id": "V000138",
@@ -734,12 +727,12 @@
     "lastName": "Vindman",
     "party": "Democratic",
     "state": "Virginia",
-    "district": 7,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/V000138?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200435"
+    "lastUpdated": "2025-07-28T13:12:47.837780",
+    "district": 7
   },
   {
     "id": "S001230",
@@ -748,12 +741,12 @@
     "lastName": "Subramanyam",
     "party": "Democratic",
     "state": "Virginia",
-    "district": 10,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001230?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200441"
+    "lastUpdated": "2025-07-28T13:12:47.837788",
+    "district": 10
   },
   {
     "id": "M001239",
@@ -762,12 +755,12 @@
     "lastName": "McGuire",
     "party": "Republican",
     "state": "Virginia",
-    "district": 5,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001239?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200446"
+    "lastUpdated": "2025-07-28T13:12:47.837797",
+    "district": 5
   },
   {
     "id": "K000403",
@@ -776,12 +769,12 @@
     "lastName": "Kennedy",
     "party": "Republican",
     "state": "Utah",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000403?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200451"
+    "lastUpdated": "2025-07-28T13:12:47.837805",
+    "district": 3
   },
   {
     "id": "J000310",
@@ -790,12 +783,12 @@
     "lastName": "Johnson",
     "party": "Democratic",
     "state": "Texas",
-    "district": 32,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000310?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200456"
+    "lastUpdated": "2025-07-28T13:12:47.837813",
+    "district": 32
   },
   {
     "id": "G000603",
@@ -804,12 +797,12 @@
     "lastName": "Gill",
     "party": "Republican",
     "state": "Texas",
-    "district": 26,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000603?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200462"
+    "lastUpdated": "2025-07-28T13:12:47.837821",
+    "district": 26
   },
   {
     "id": "M001228",
@@ -818,12 +811,12 @@
     "lastName": "Maloy",
     "party": "Republican",
     "state": "Utah",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001228?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200467"
+    "lastUpdated": "2025-07-28T13:12:47.837829",
+    "district": 2
   },
   {
     "id": "M001227",
@@ -832,12 +825,12 @@
     "lastName": "McClellan",
     "party": "Democratic",
     "state": "Virginia",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001227?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200472"
+    "lastUpdated": "2025-07-28T13:12:47.837836",
+    "district": 4
   },
   {
     "id": "K000399",
@@ -846,12 +839,12 @@
     "lastName": "Kiggans",
     "party": "Republican",
     "state": "Virginia",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000399?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200477"
+    "lastUpdated": "2025-07-28T13:12:47.837844",
+    "district": 2
   },
   {
     "id": "H001095",
@@ -860,12 +853,12 @@
     "lastName": "Hunt",
     "party": "Republican",
     "state": "Texas",
-    "district": 38,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001095?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200482"
+    "lastUpdated": "2025-07-28T13:12:47.837852",
+    "district": 38
   },
   {
     "id": "C001130",
@@ -874,12 +867,12 @@
     "lastName": "Crockett",
     "party": "Democratic",
     "state": "Texas",
-    "district": 30,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001130?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200488"
+    "lastUpdated": "2025-07-28T13:12:47.837860",
+    "district": 30
   },
   {
     "id": "C001131",
@@ -888,12 +881,12 @@
     "lastName": "Casar",
     "party": "Democratic",
     "state": "Texas",
-    "district": 35,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001131?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200493"
+    "lastUpdated": "2025-07-28T13:12:47.837868",
+    "district": 35
   },
   {
     "id": "V000134",
@@ -902,12 +895,12 @@
     "lastName": "Van Duyne",
     "party": "Republican",
     "state": "Texas",
-    "district": 24,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/V000134?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200498"
+    "lastUpdated": "2025-07-28T13:12:47.837876",
+    "district": 24
   },
   {
     "id": "O000086",
@@ -916,12 +909,12 @@
     "lastName": "Owens",
     "party": "Republican",
     "state": "Utah",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/O000086?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200503"
+    "lastUpdated": "2025-07-28T13:12:47.837884",
+    "district": 4
   },
   {
     "id": "N000026",
@@ -930,12 +923,12 @@
     "lastName": "Nehls",
     "party": "Republican",
     "state": "Texas",
-    "district": 22,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/N000026?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200508"
+    "lastUpdated": "2025-07-28T13:12:47.837892",
+    "district": 22
   },
   {
     "id": "M001213",
@@ -944,12 +937,12 @@
     "lastName": "Moore",
     "party": "Republican",
     "state": "Utah",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001213?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200513"
+    "lastUpdated": "2025-07-28T13:12:47.837900",
+    "district": 1
   },
   {
     "id": "G000594",
@@ -958,12 +951,12 @@
     "lastName": "Gonzales",
     "party": "Republican",
     "state": "Texas",
-    "district": 23,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000594?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200518"
+    "lastUpdated": "2025-07-28T13:12:47.837908",
+    "district": 23
   },
   {
     "id": "C001118",
@@ -972,12 +965,12 @@
     "lastName": "Cline",
     "party": "Republican",
     "state": "Virginia",
-    "district": 6,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001118?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200524"
+    "lastUpdated": "2025-07-28T13:12:47.837916",
+    "district": 6
   },
   {
     "id": "G000587",
@@ -986,12 +979,12 @@
     "lastName": "Garcia",
     "party": "Democratic",
     "state": "Texas",
-    "district": 29,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000587?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200528"
+    "lastUpdated": "2025-07-28T13:12:47.837924",
+    "district": 29
   },
   {
     "id": "R000614",
@@ -1000,12 +993,12 @@
     "lastName": "Roy",
     "party": "Republican",
     "state": "Texas",
-    "district": 21,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000614?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200534"
+    "lastUpdated": "2025-07-28T13:12:47.837932",
+    "district": 21
   },
   {
     "id": "C001115",
@@ -1014,12 +1007,12 @@
     "lastName": "Cloud",
     "party": "Republican",
     "state": "Texas",
-    "district": 27,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001115?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200539"
+    "lastUpdated": "2025-07-28T13:12:47.837940",
+    "district": 27
   },
   {
     "id": "G000581",
@@ -1028,12 +1021,12 @@
     "lastName": "Gonzalez",
     "party": "Democratic",
     "state": "Texas",
-    "district": 34,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000581?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200544"
+    "lastUpdated": "2025-07-28T13:12:47.837947",
+    "district": 34
   },
   {
     "id": "B001292",
@@ -1042,12 +1035,12 @@
     "lastName": "Beyer",
     "party": "Democratic",
     "state": "Virginia",
-    "district": 8,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001292?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200549"
+    "lastUpdated": "2025-07-28T13:12:47.837968",
+    "district": 8
   },
   {
     "id": "B001291",
@@ -1056,12 +1049,12 @@
     "lastName": "Babin",
     "party": "Republican",
     "state": "Texas",
-    "district": 36,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001291?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200559"
+    "lastUpdated": "2025-07-28T13:12:47.837978",
+    "district": 36
   },
   {
     "id": "V000131",
@@ -1070,12 +1063,12 @@
     "lastName": "Veasey",
     "party": "Democratic",
     "state": "Texas",
-    "district": 33,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/V000131?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200564"
+    "lastUpdated": "2025-07-28T13:12:47.837987",
+    "district": 33
   },
   {
     "id": "W000816",
@@ -1084,12 +1077,12 @@
     "lastName": "Williams",
     "party": "Republican",
     "state": "Texas",
-    "district": 25,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/W000816?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200571"
+    "lastUpdated": "2025-07-28T13:12:47.837997",
+    "district": 25
   },
   {
     "id": "W000804",
@@ -1098,12 +1091,12 @@
     "lastName": "Wittman",
     "party": "Republican",
     "state": "Virginia",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/W000804?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200577"
+    "lastUpdated": "2025-07-28T13:12:47.838005",
+    "district": 1
   },
   {
     "id": "G000568",
@@ -1112,12 +1105,12 @@
     "lastName": "Griffith",
     "party": "Republican",
     "state": "Virginia",
-    "district": 9,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000568?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200582"
+    "lastUpdated": "2025-07-28T13:12:47.838013",
+    "district": 9
   },
   {
     "id": "S000185",
@@ -1126,12 +1119,12 @@
     "lastName": "Scott",
     "party": "Democratic",
     "state": "Virginia",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S000185?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200587"
+    "lastUpdated": "2025-07-28T13:12:47.838022",
+    "district": 3
   },
   {
     "id": "C001063",
@@ -1140,12 +1133,12 @@
     "lastName": "Cuellar",
     "party": "Democratic",
     "state": "Texas",
-    "district": 28,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001063?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200592"
+    "lastUpdated": "2025-07-28T13:12:47.838030",
+    "district": 28
   },
   {
     "id": "C001051",
@@ -1154,12 +1147,12 @@
     "lastName": "Carter",
     "party": "Republican",
     "state": "Texas",
-    "district": 31,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001051?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200597"
+    "lastUpdated": "2025-07-28T13:12:47.838037",
+    "district": 31
   },
   {
     "id": "D000399",
@@ -1168,12 +1161,12 @@
     "lastName": "Doggett",
     "party": "Democratic",
     "state": "Texas",
-    "district": 37,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000399?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200602"
+    "lastUpdated": "2025-07-28T13:12:47.838046",
+    "district": 37
   },
   {
     "id": "G000601",
@@ -1182,12 +1175,12 @@
     "lastName": "Goldman",
     "party": "Republican",
     "state": "Texas",
-    "district": 12,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000601?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200607"
+    "lastUpdated": "2025-07-28T13:12:47.838053",
+    "district": 12
   },
   {
     "id": "B001325",
@@ -1196,12 +1189,12 @@
     "lastName": "Biggs",
     "party": "Republican",
     "state": "South Carolina",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001325?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200612"
+    "lastUpdated": "2025-07-28T13:12:47.838061",
+    "district": 3
   },
   {
     "id": "S001224",
@@ -1210,12 +1203,12 @@
     "lastName": "Self",
     "party": "Republican",
     "state": "Texas",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001224?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200617"
+    "lastUpdated": "2025-07-28T13:12:47.838074",
+    "district": 3
   },
   {
     "id": "O000175",
@@ -1224,12 +1217,12 @@
     "lastName": "Ogles",
     "party": "Republican",
     "state": "Tennessee",
-    "district": 5,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/O000175?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200622"
+    "lastUpdated": "2025-07-28T13:12:47.838083",
+    "district": 5
   },
   {
     "id": "M001224",
@@ -1238,12 +1231,12 @@
     "lastName": "Moran",
     "party": "Republican",
     "state": "Texas",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001224?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200627"
+    "lastUpdated": "2025-07-28T13:12:47.838091",
+    "district": 1
   },
   {
     "id": "L000603",
@@ -1252,12 +1245,12 @@
     "lastName": "Luttrell",
     "party": "Republican",
     "state": "Texas",
-    "district": 8,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000603?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200632"
+    "lastUpdated": "2025-07-28T13:12:47.838099",
+    "district": 8
   },
   {
     "id": "F000478",
@@ -1266,12 +1259,12 @@
     "lastName": "Fry",
     "party": "Republican",
     "state": "South Carolina",
-    "district": 7,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000478?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200637"
+    "lastUpdated": "2025-07-28T13:12:47.838107",
+    "district": 7
   },
   {
     "id": "D000594",
@@ -1280,12 +1273,12 @@
     "lastName": "De La Cruz",
     "party": "Republican",
     "state": "Texas",
-    "district": 15,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000594?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200642"
+    "lastUpdated": "2025-07-28T13:12:47.838115",
+    "district": 15
   },
   {
     "id": "E000071",
@@ -1294,12 +1287,12 @@
     "lastName": "Ellzey",
     "party": "Republican",
     "state": "Texas",
-    "district": 6,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/E000071?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200647"
+    "lastUpdated": "2025-07-28T13:12:47.838123",
+    "district": 6
   },
   {
     "id": "P000048",
@@ -1308,12 +1301,12 @@
     "lastName": "Pfluger",
     "party": "Republican",
     "state": "Texas",
-    "district": 11,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/P000048?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200653"
+    "lastUpdated": "2025-07-28T13:12:47.838132",
+    "district": 11
   },
   {
     "id": "J000304",
@@ -1322,12 +1315,12 @@
     "lastName": "Jackson",
     "party": "Republican",
     "state": "Texas",
-    "district": 13,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000304?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200658"
+    "lastUpdated": "2025-07-28T13:12:47.838140",
+    "district": 13
   },
   {
     "id": "H001086",
@@ -1336,12 +1329,12 @@
     "lastName": "Harshbarger",
     "party": "Republican",
     "state": "Tennessee",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001086?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200663"
+    "lastUpdated": "2025-07-28T13:12:47.838148",
+    "district": 1
   },
   {
     "id": "F000246",
@@ -1350,12 +1343,12 @@
     "lastName": "Fallon",
     "party": "Republican",
     "state": "Texas",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000246?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200673"
+    "lastUpdated": "2025-07-28T13:12:47.838156",
+    "district": 4
   },
   {
     "id": "E000299",
@@ -1364,12 +1357,12 @@
     "lastName": "Escobar",
     "party": "Democratic",
     "state": "Texas",
-    "district": 16,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/E000299?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200720"
+    "lastUpdated": "2025-07-28T13:12:47.838164",
+    "district": 16
   },
   {
     "id": "F000468",
@@ -1378,12 +1371,12 @@
     "lastName": "Fletcher",
     "party": "Democratic",
     "state": "Texas",
-    "district": 7,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000468?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200734"
+    "lastUpdated": "2025-07-28T13:12:47.838172",
+    "district": 7
   },
   {
     "id": "G000589",
@@ -1392,12 +1385,12 @@
     "lastName": "Gooden",
     "party": "Republican",
     "state": "Texas",
-    "district": 5,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000589?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200744"
+    "lastUpdated": "2025-07-28T13:12:47.838180",
+    "district": 5
   },
   {
     "id": "C001120",
@@ -1406,12 +1399,12 @@
     "lastName": "Crenshaw",
     "party": "Republican",
     "state": "Texas",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001120?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200948"
+    "lastUpdated": "2025-07-28T13:12:47.838188",
+    "district": 2
   },
   {
     "id": "R000612",
@@ -1420,12 +1413,12 @@
     "lastName": "Rose",
     "party": "Republican",
     "state": "Tennessee",
-    "district": 6,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000612?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.200992"
+    "lastUpdated": "2025-07-28T13:12:47.838196",
+    "district": 6
   },
   {
     "id": "B001309",
@@ -1434,12 +1427,12 @@
     "lastName": "Burchett",
     "party": "Republican",
     "state": "Tennessee",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001309?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201005"
+    "lastUpdated": "2025-07-28T13:12:47.838204",
+    "district": 2
   },
   {
     "id": "J000301",
@@ -1448,12 +1441,12 @@
     "lastName": "Johnson",
     "party": "Republican",
     "state": "South Dakota",
-    "district": null,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000301?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201149"
+    "lastUpdated": "2025-07-28T13:12:47.838211",
+    "district": null
   },
   {
     "id": "T000480",
@@ -1462,12 +1455,12 @@
     "lastName": "Timmons",
     "party": "Republican",
     "state": "South Carolina",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000480?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201322"
+    "lastUpdated": "2025-07-28T13:12:47.838219",
+    "district": 4
   },
   {
     "id": "N000190",
@@ -1476,12 +1469,12 @@
     "lastName": "Norman",
     "party": "Republican",
     "state": "South Carolina",
-    "district": 5,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/N000190?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201344"
+    "lastUpdated": "2025-07-28T13:12:47.838227",
+    "district": 5
   },
   {
     "id": "A000375",
@@ -1490,12 +1483,12 @@
     "lastName": "Arrington",
     "party": "Republican",
     "state": "Texas",
-    "district": 19,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/A000375?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201397"
+    "lastUpdated": "2025-07-28T13:12:47.838235",
+    "district": 19
   },
   {
     "id": "K000392",
@@ -1504,12 +1497,12 @@
     "lastName": "Kustoff",
     "party": "Republican",
     "state": "Tennessee",
-    "district": 8,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000392?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201409"
+    "lastUpdated": "2025-07-28T13:12:47.838248",
+    "district": 8
   },
   {
     "id": "C001091",
@@ -1518,12 +1511,12 @@
     "lastName": "Castro",
     "party": "Democratic",
     "state": "Texas",
-    "district": 20,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001091?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201756"
+    "lastUpdated": "2025-07-28T13:12:47.838256",
+    "district": 20
   },
   {
     "id": "W000814",
@@ -1532,12 +1525,12 @@
     "lastName": "Weber",
     "party": "Republican",
     "state": "Texas",
-    "district": 14,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/W000814?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201780"
+    "lastUpdated": "2025-07-28T13:12:47.838266",
+    "district": 14
   },
   {
     "id": "D000616",
@@ -1546,12 +1539,12 @@
     "lastName": "DesJarlais",
     "party": "Republican",
     "state": "Tennessee",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000616?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201787"
+    "lastUpdated": "2025-07-28T13:12:47.838274",
+    "district": 4
   },
   {
     "id": "F000459",
@@ -1560,12 +1553,12 @@
     "lastName": "Fleischmann",
     "party": "Republican",
     "state": "Tennessee",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000459?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201793"
+    "lastUpdated": "2025-07-28T13:12:47.838283",
+    "district": 3
   },
   {
     "id": "C001068",
@@ -1574,12 +1567,12 @@
     "lastName": "Cohen",
     "party": "Democratic",
     "state": "Tennessee",
-    "district": 9,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001068?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201798"
+    "lastUpdated": "2025-07-28T13:12:47.838291",
+    "district": 9
   },
   {
     "id": "S000250",
@@ -1588,12 +1581,12 @@
     "lastName": "Sessions",
     "party": "Republican",
     "state": "Texas",
-    "district": 17,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S000250?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201804"
+    "lastUpdated": "2025-07-28T13:12:47.838299",
+    "district": 17
   },
   {
     "id": "M001157",
@@ -1602,12 +1595,12 @@
     "lastName": "McCaul",
     "party": "Republican",
     "state": "Texas",
-    "district": 10,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001157?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201809"
+    "lastUpdated": "2025-07-28T13:12:47.838307",
+    "district": 10
   },
   {
     "id": "G000553",
@@ -1616,12 +1609,12 @@
     "lastName": "Green",
     "party": "Democratic",
     "state": "Texas",
-    "district": 9,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000553?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201815"
+    "lastUpdated": "2025-07-28T13:12:47.838314",
+    "district": 9
   },
   {
     "id": "C000537",
@@ -1630,12 +1623,12 @@
     "lastName": "Clyburn",
     "party": "Democratic",
     "state": "South Carolina",
-    "district": 6,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C000537?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201820"
+    "lastUpdated": "2025-07-28T13:12:47.838322",
+    "district": 6
   },
   {
     "id": "M001230",
@@ -1644,12 +1637,12 @@
     "lastName": "Mackenzie",
     "party": "Republican",
     "state": "Pennsylvania",
-    "district": 7,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001230?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201836"
+    "lastUpdated": "2025-07-28T13:12:47.838330",
+    "district": 7
   },
   {
     "id": "H001103",
@@ -1658,12 +1651,12 @@
     "lastName": "Hern\u00e1ndez",
     "party": "Democratic",
     "state": "Puerto Rico",
-    "district": null,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001103?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201843"
+    "lastUpdated": "2025-07-28T13:12:47.838338",
+    "district": null
   },
   {
     "id": "D000635",
@@ -1672,12 +1665,12 @@
     "lastName": "Dexter",
     "party": "Democratic",
     "state": "Oregon",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000635?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201849"
+    "lastUpdated": "2025-07-28T13:12:47.838346",
+    "district": 3
   },
   {
     "id": "B001327",
@@ -1686,12 +1679,12 @@
     "lastName": "Bresnahan",
     "party": "Republican",
     "state": "Pennsylvania",
-    "district": 8,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001327?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201857"
+    "lastUpdated": "2025-07-28T13:12:47.838354",
+    "district": 8
   },
   {
     "id": "B001326",
@@ -1700,12 +1693,12 @@
     "lastName": "Bynum",
     "party": "Democratic",
     "state": "Oregon",
-    "district": 5,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001326?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201863"
+    "lastUpdated": "2025-07-28T13:12:47.838362",
+    "district": 5
   },
   {
     "id": "A000380",
@@ -1714,12 +1707,12 @@
     "lastName": "Amo",
     "party": "Democratic",
     "state": "Rhode Island",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/A000380?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201868"
+    "lastUpdated": "2025-07-28T13:12:47.838374",
+    "district": 1
   },
   {
     "id": "S001226",
@@ -1728,12 +1721,12 @@
     "lastName": "Salinas",
     "party": "Democratic",
     "state": "Oregon",
-    "district": 6,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001226?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201873"
+    "lastUpdated": "2025-07-28T13:12:47.838383",
+    "district": 6
   },
   {
     "id": "M001223",
@@ -1742,12 +1735,12 @@
     "lastName": "Magaziner",
     "party": "Democratic",
     "state": "Rhode Island",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001223?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201878"
+    "lastUpdated": "2025-07-28T13:12:47.838391",
+    "district": 2
   },
   {
     "id": "L000602",
@@ -1756,12 +1749,12 @@
     "lastName": "Lee",
     "party": "Democratic",
     "state": "Pennsylvania",
-    "district": 12,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000602?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201883"
+    "lastUpdated": "2025-07-28T13:12:47.838399",
+    "district": 12
   },
   {
     "id": "H001094",
@@ -1770,12 +1763,12 @@
     "lastName": "Hoyle",
     "party": "Democratic",
     "state": "Oregon",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001094?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201888"
+    "lastUpdated": "2025-07-28T13:12:47.838406",
+    "district": 4
   },
   {
     "id": "D000530",
@@ -1784,12 +1777,12 @@
     "lastName": "Deluzio",
     "party": "Democratic",
     "state": "Pennsylvania",
-    "district": 17,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000530?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201893"
+    "lastUpdated": "2025-07-28T13:12:47.838414",
+    "district": 17
   },
   {
     "id": "B001317",
@@ -1798,12 +1791,12 @@
     "lastName": "Brecheen",
     "party": "Republican",
     "state": "Oklahoma",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001317?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201899"
+    "lastUpdated": "2025-07-28T13:12:47.838422",
+    "district": 2
   },
   {
     "id": "M000194",
@@ -1812,12 +1805,12 @@
     "lastName": "Mace",
     "party": "Republican",
     "state": "South Carolina",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M000194?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201906"
+    "lastUpdated": "2025-07-28T13:12:47.838436",
+    "district": 1
   },
   {
     "id": "B000740",
@@ -1826,12 +1819,12 @@
     "lastName": "Bice",
     "party": "Republican",
     "state": "Oklahoma",
-    "district": 5,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B000740?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201911"
+    "lastUpdated": "2025-07-28T13:12:47.838445",
+    "district": 5
   },
   {
     "id": "B000668",
@@ -1840,12 +1833,12 @@
     "lastName": "Bentz",
     "party": "Republican",
     "state": "Oregon",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B000668?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201916"
+    "lastUpdated": "2025-07-28T13:12:47.838453",
+    "district": 2
   },
   {
     "id": "R000610",
@@ -1854,12 +1847,12 @@
     "lastName": "Reschenthaler",
     "party": "Republican",
     "state": "Pennsylvania",
-    "district": 14,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000610?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201921"
+    "lastUpdated": "2025-07-28T13:12:47.838461",
+    "district": 14
   },
   {
     "id": "J000302",
@@ -1868,12 +1861,12 @@
     "lastName": "Joyce",
     "party": "Republican",
     "state": "Pennsylvania",
-    "district": 13,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000302?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201926"
+    "lastUpdated": "2025-07-28T13:12:47.838468",
+    "district": 13
   },
   {
     "id": "M001204",
@@ -1882,12 +1875,12 @@
     "lastName": "Meuser",
     "party": "Republican",
     "state": "Pennsylvania",
-    "district": 9,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001204?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201930"
+    "lastUpdated": "2025-07-28T13:12:47.838476",
+    "district": 9
   },
   {
     "id": "D000631",
@@ -1896,12 +1889,12 @@
     "lastName": "Dean",
     "party": "Democratic",
     "state": "Pennsylvania",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000631?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201935"
+    "lastUpdated": "2025-07-28T13:12:47.838484",
+    "district": 4
   },
   {
     "id": "H001082",
@@ -1910,12 +1903,12 @@
     "lastName": "Hern",
     "party": "Republican",
     "state": "Oklahoma",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001082?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201940"
+    "lastUpdated": "2025-07-28T13:12:47.838492",
+    "district": 1
   },
   {
     "id": "S001205",
@@ -1924,12 +1917,12 @@
     "lastName": "Scanlon",
     "party": "Democratic",
     "state": "Pennsylvania",
-    "district": 5,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001205?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201945"
+    "lastUpdated": "2025-07-28T13:12:47.838500",
+    "district": 5
   },
   {
     "id": "S001199",
@@ -1938,12 +1931,12 @@
     "lastName": "Smucker",
     "party": "Republican",
     "state": "Pennsylvania",
-    "district": 11,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001199?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201950"
+    "lastUpdated": "2025-07-28T13:12:47.838508",
+    "district": 11
   },
   {
     "id": "F000466",
@@ -1952,12 +1945,12 @@
     "lastName": "Fitzpatrick",
     "party": "Republican",
     "state": "Pennsylvania",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000466?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201959"
+    "lastUpdated": "2025-07-28T13:12:47.838516",
+    "district": 1
   },
   {
     "id": "E000296",
@@ -1966,12 +1959,12 @@
     "lastName": "Evans",
     "party": "Democratic",
     "state": "Pennsylvania",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/E000296?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201964"
+    "lastUpdated": "2025-07-28T13:12:47.838524",
+    "district": 3
   },
   {
     "id": "B001296",
@@ -1980,12 +1973,12 @@
     "lastName": "Boyle",
     "party": "Democratic",
     "state": "Pennsylvania",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001296?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201969"
+    "lastUpdated": "2025-07-28T13:12:47.838532",
+    "district": 2
   },
   {
     "id": "P000605",
@@ -1994,12 +1987,12 @@
     "lastName": "Perry",
     "party": "Republican",
     "state": "Pennsylvania",
-    "district": 10,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/P000605?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201973"
+    "lastUpdated": "2025-07-28T13:12:47.838540",
+    "district": 10
   },
   {
     "id": "B001278",
@@ -2008,12 +2001,12 @@
     "lastName": "Bonamici",
     "party": "Democratic",
     "state": "Oregon",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001278?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201978"
+    "lastUpdated": "2025-07-28T13:12:47.838548",
+    "district": 1
   },
   {
     "id": "K000376",
@@ -2022,12 +2015,12 @@
     "lastName": "Kelly",
     "party": "Republican",
     "state": "Pennsylvania",
-    "district": 16,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000376?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201983"
+    "lastUpdated": "2025-07-28T13:12:47.838555",
+    "district": 16
   },
   {
     "id": "T000467",
@@ -2036,12 +2029,12 @@
     "lastName": "Thompson",
     "party": "Republican",
     "state": "Pennsylvania",
-    "district": 15,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000467?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201988"
+    "lastUpdated": "2025-07-28T13:12:47.838563",
+    "district": 15
   },
   {
     "id": "L000491",
@@ -2050,12 +2043,12 @@
     "lastName": "Lucas",
     "party": "Republican",
     "state": "Oklahoma",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000491?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201993"
+    "lastUpdated": "2025-07-28T13:12:47.838571",
+    "district": 3
   },
   {
     "id": "C001053",
@@ -2064,12 +2057,12 @@
     "lastName": "Cole",
     "party": "Republican",
     "state": "Oklahoma",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001053?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.201998"
+    "lastUpdated": "2025-07-28T13:12:47.838579",
+    "district": 4
   },
   {
     "id": "W000795",
@@ -2078,12 +2071,12 @@
     "lastName": "Wilson",
     "party": "Republican",
     "state": "South Carolina",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/W000795?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202003"
+    "lastUpdated": "2025-07-28T13:12:47.838587",
+    "district": 2
   },
   {
     "id": "T000490",
@@ -2092,12 +2085,12 @@
     "lastName": "Taylor",
     "party": "Republican",
     "state": "Ohio",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000490?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202008"
+    "lastUpdated": "2025-07-28T13:12:47.838595",
+    "district": 2
   },
   {
     "id": "R000622",
@@ -2106,12 +2099,12 @@
     "lastName": "Riley",
     "party": "Democratic",
     "state": "New York",
-    "district": 19,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000622?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202013"
+    "lastUpdated": "2025-07-28T13:12:47.838608",
+    "district": 19
   },
   {
     "id": "M001231",
@@ -2120,12 +2113,12 @@
     "lastName": "Mannion",
     "party": "Democratic",
     "state": "New York",
-    "district": 22,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001231?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202018"
+    "lastUpdated": "2025-07-28T13:12:47.838617",
+    "district": 22
   },
   {
     "id": "L000606",
@@ -2134,12 +2127,12 @@
     "lastName": "Latimer",
     "party": "Democratic",
     "state": "New York",
-    "district": 16,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000606?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202023"
+    "lastUpdated": "2025-07-28T13:12:47.838625",
+    "district": 16
   },
   {
     "id": "R000619",
@@ -2148,12 +2141,12 @@
     "lastName": "Rulli",
     "party": "Republican",
     "state": "Ohio",
-    "district": 6,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000619?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202028"
+    "lastUpdated": "2025-07-28T13:12:47.838633",
+    "district": 6
   },
   {
     "id": "K000402",
@@ -2162,12 +2155,12 @@
     "lastName": "Kennedy",
     "party": "Democratic",
     "state": "New York",
-    "district": 26,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000402?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202033"
+    "lastUpdated": "2025-07-28T13:12:47.838641",
+    "district": 26
   },
   {
     "id": "S001223",
@@ -2176,12 +2169,12 @@
     "lastName": "Sykes",
     "party": "Democratic",
     "state": "Ohio",
-    "district": 13,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001223?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202038"
+    "lastUpdated": "2025-07-28T13:12:47.838649",
+    "district": 13
   },
   {
     "id": "M001222",
@@ -2190,12 +2183,12 @@
     "lastName": "Miller",
     "party": "Republican",
     "state": "Ohio",
-    "district": 7,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001222?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202043"
+    "lastUpdated": "2025-07-28T13:12:47.838657",
+    "district": 7
   },
   {
     "id": "L000599",
@@ -2204,12 +2197,12 @@
     "lastName": "Lawler",
     "party": "Republican",
     "state": "New York",
-    "district": 17,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000599?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202047"
+    "lastUpdated": "2025-07-28T13:12:47.838664",
+    "district": 17
   },
   {
     "id": "L000600",
@@ -2218,12 +2211,12 @@
     "lastName": "Langworthy",
     "party": "Republican",
     "state": "New York",
-    "district": 23,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000600?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202052"
+    "lastUpdated": "2025-07-28T13:12:47.838673",
+    "district": 23
   },
   {
     "id": "L000601",
@@ -2232,12 +2225,12 @@
     "lastName": "Landsman",
     "party": "Democratic",
     "state": "Ohio",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000601?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202057"
+    "lastUpdated": "2025-07-28T13:12:47.838681",
+    "district": 1
   },
   {
     "id": "R000579",
@@ -2246,12 +2239,12 @@
     "lastName": "Ryan",
     "party": "Democratic",
     "state": "New York",
-    "district": 18,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000579?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202066"
+    "lastUpdated": "2025-07-28T13:12:47.838689",
+    "district": 18
   },
   {
     "id": "C001126",
@@ -2260,12 +2253,12 @@
     "lastName": "Carey",
     "party": "Republican",
     "state": "Ohio",
-    "district": 15,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001126?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202071"
+    "lastUpdated": "2025-07-28T13:12:47.838697",
+    "district": 15
   },
   {
     "id": "B001313",
@@ -2274,12 +2267,12 @@
     "lastName": "Brown",
     "party": "Democratic",
     "state": "Ohio",
-    "district": 11,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001313?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202077"
+    "lastUpdated": "2025-07-28T13:12:47.838705",
+    "district": 11
   },
   {
     "id": "T000486",
@@ -2288,12 +2281,12 @@
     "lastName": "Torres",
     "party": "Democratic",
     "state": "New York",
-    "district": 15,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000486?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202081"
+    "lastUpdated": "2025-07-28T13:12:47.838713",
+    "district": 15
   },
   {
     "id": "O000172",
@@ -2302,12 +2295,12 @@
     "lastName": "Ocasio-Cortez",
     "party": "Democratic",
     "state": "New York",
-    "district": 14,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/O000172?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202086"
+    "lastUpdated": "2025-07-28T13:12:47.838721",
+    "district": 14
   },
   {
     "id": "M001206",
@@ -2316,12 +2309,12 @@
     "lastName": "Morelle",
     "party": "Democratic",
     "state": "New York",
-    "district": 25,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001206?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202091"
+    "lastUpdated": "2025-07-28T13:12:47.838729",
+    "district": 25
   },
   {
     "id": "B001306",
@@ -2330,12 +2323,12 @@
     "lastName": "Balderson",
     "party": "Republican",
     "state": "Ohio",
-    "district": 12,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001306?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202096"
+    "lastUpdated": "2025-07-28T13:12:47.838737",
+    "district": 12
   },
   {
     "id": "T000478",
@@ -2344,12 +2337,12 @@
     "lastName": "Tenney",
     "party": "Republican",
     "state": "New York",
-    "district": 24,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000478?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202101"
+    "lastUpdated": "2025-07-28T13:12:47.838745",
+    "district": 24
   },
   {
     "id": "E000297",
@@ -2358,12 +2351,12 @@
     "lastName": "Espaillat",
     "party": "Democratic",
     "state": "New York",
-    "district": 13,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/E000297?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202106"
+    "lastUpdated": "2025-07-28T13:12:47.838755",
+    "district": 13
   },
   {
     "id": "D000626",
@@ -2372,12 +2365,12 @@
     "lastName": "Davidson",
     "party": "Republican",
     "state": "Ohio",
-    "district": 8,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000626?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202111"
+    "lastUpdated": "2025-07-28T13:12:47.838763",
+    "district": 8
   },
   {
     "id": "S001196",
@@ -2386,12 +2379,12 @@
     "lastName": "Stefanik",
     "party": "Republican",
     "state": "New York",
-    "district": 21,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001196?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202119"
+    "lastUpdated": "2025-07-28T13:12:47.838771",
+    "district": 21
   },
   {
     "id": "J000295",
@@ -2400,12 +2393,12 @@
     "lastName": "Joyce",
     "party": "Republican",
     "state": "Ohio",
-    "district": 14,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000295?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202125"
+    "lastUpdated": "2025-07-28T13:12:47.838784",
+    "district": 14
   },
   {
     "id": "B001281",
@@ -2414,12 +2407,12 @@
     "lastName": "Beatty",
     "party": "Democratic",
     "state": "Ohio",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001281?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202129"
+    "lastUpdated": "2025-07-28T13:12:47.838797",
+    "district": 3
   },
   {
     "id": "L000566",
@@ -2428,12 +2421,12 @@
     "lastName": "Latta",
     "party": "Republican",
     "state": "Ohio",
-    "district": 5,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000566?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202135"
+    "lastUpdated": "2025-07-28T13:12:47.838873",
+    "district": 5
   },
   {
     "id": "J000289",
@@ -2442,12 +2435,12 @@
     "lastName": "Jordan",
     "party": "Republican",
     "state": "Ohio",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000289?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202140"
+    "lastUpdated": "2025-07-28T13:12:47.838886",
+    "district": 4
   },
   {
     "id": "T000469",
@@ -2456,12 +2449,12 @@
     "lastName": "Tonko",
     "party": "Democratic",
     "state": "New York",
-    "district": 20,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000469?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202145"
+    "lastUpdated": "2025-07-28T13:12:47.838900",
+    "district": 20
   },
   {
     "id": "N000002",
@@ -2470,12 +2463,12 @@
     "lastName": "Nadler",
     "party": "Democratic",
     "state": "New York",
-    "district": 12,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/N000002?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202150"
+    "lastUpdated": "2025-07-28T13:12:47.838915",
+    "district": 12
   },
   {
     "id": "T000463",
@@ -2484,12 +2477,12 @@
     "lastName": "Turner",
     "party": "Republican",
     "state": "Ohio",
-    "district": 10,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000463?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202155"
+    "lastUpdated": "2025-07-28T13:12:47.838924",
+    "district": 10
   },
   {
     "id": "K000009",
@@ -2498,12 +2491,12 @@
     "lastName": "Kaptur",
     "party": "Democratic",
     "state": "Ohio",
-    "district": 9,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000009?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202160"
+    "lastUpdated": "2025-07-28T13:12:47.838932",
+    "district": 9
   },
   {
     "id": "P000621",
@@ -2512,12 +2505,12 @@
     "lastName": "Pou",
     "party": "Democratic",
     "state": "New Jersey",
-    "district": 9,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/P000621?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202165"
+    "lastUpdated": "2025-07-28T13:12:47.838940",
+    "district": 9
   },
   {
     "id": "G000604",
@@ -2526,12 +2519,12 @@
     "lastName": "Goodlander",
     "party": "Democratic",
     "state": "New Hampshire",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000604?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202170"
+    "lastUpdated": "2025-07-28T13:12:47.838949",
+    "district": 2
   },
   {
     "id": "G000602",
@@ -2540,12 +2533,12 @@
     "lastName": "Gillen",
     "party": "Democratic",
     "state": "New York",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000602?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202178"
+    "lastUpdated": "2025-07-28T13:12:47.838957",
+    "district": 4
   },
   {
     "id": "C001136",
@@ -2554,12 +2547,12 @@
     "lastName": "Conaway",
     "party": "Democratic",
     "state": "New Jersey",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001136?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202183"
+    "lastUpdated": "2025-07-28T13:12:47.838964",
+    "district": 3
   },
   {
     "id": "V000136",
@@ -2568,12 +2561,12 @@
     "lastName": "Vasquez",
     "party": "Democratic",
     "state": "New Mexico",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/V000136?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202188"
+    "lastUpdated": "2025-07-28T13:12:47.838972",
+    "district": 2
   },
   {
     "id": "L000598",
@@ -2582,12 +2575,12 @@
     "lastName": "LaLota",
     "party": "Republican",
     "state": "New York",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000598?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202193"
+    "lastUpdated": "2025-07-28T13:12:47.838980",
+    "district": 1
   },
   {
     "id": "K000398",
@@ -2596,12 +2589,12 @@
     "lastName": "Kean",
     "party": "Republican",
     "state": "New Jersey",
-    "district": 7,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000398?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202198"
+    "lastUpdated": "2025-07-28T13:12:47.838988",
+    "district": 7
   },
   {
     "id": "G000599",
@@ -2610,12 +2603,12 @@
     "lastName": "Goldman",
     "party": "Democratic",
     "state": "New York",
-    "district": 10,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000599?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202203"
+    "lastUpdated": "2025-07-28T13:12:47.838996",
+    "district": 10
   },
   {
     "id": "S001218",
@@ -2624,12 +2617,12 @@
     "lastName": "Stansbury",
     "party": "Democratic",
     "state": "New Mexico",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001218?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202208"
+    "lastUpdated": "2025-07-28T13:12:47.839004",
+    "district": 1
   },
   {
     "id": "M000317",
@@ -2638,12 +2631,12 @@
     "lastName": "Malliotakis",
     "party": "Republican",
     "state": "New York",
-    "district": 11,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M000317?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202212"
+    "lastUpdated": "2025-07-28T13:12:47.839012",
+    "district": 11
   },
   {
     "id": "L000273",
@@ -2652,12 +2645,12 @@
     "lastName": "Leger Fernandez",
     "party": "Democratic",
     "state": "New Mexico",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000273?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202218"
+    "lastUpdated": "2025-07-28T13:12:47.839020",
+    "district": 3
   },
   {
     "id": "G000597",
@@ -2666,12 +2659,12 @@
     "lastName": "Garbarino",
     "party": "Republican",
     "state": "New York",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000597?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202223"
+    "lastUpdated": "2025-07-28T13:12:47.839028",
+    "district": 2
   },
   {
     "id": "L000590",
@@ -2680,12 +2673,12 @@
     "lastName": "Lee",
     "party": "Democratic",
     "state": "Nevada",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/L000590?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202228"
+    "lastUpdated": "2025-07-28T13:12:47.839036",
+    "district": 3
   },
   {
     "id": "S001207",
@@ -2694,12 +2687,12 @@
     "lastName": "Sherrill",
     "party": "Democratic",
     "state": "New Jersey",
-    "district": 11,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001207?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202233"
+    "lastUpdated": "2025-07-28T13:12:47.839052",
+    "district": 11
   },
   {
     "id": "V000133",
@@ -2708,12 +2701,12 @@
     "lastName": "Van Drew",
     "party": "Republican",
     "state": "New Jersey",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/V000133?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202237"
+    "lastUpdated": "2025-07-28T13:12:47.839061",
+    "district": 2
   },
   {
     "id": "P000614",
@@ -2722,12 +2715,12 @@
     "lastName": "Pappas",
     "party": "Democratic",
     "state": "New Hampshire",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/P000614?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202242"
+    "lastUpdated": "2025-07-28T13:12:47.839069",
+    "district": 1
   },
   {
     "id": "S001201",
@@ -2736,12 +2729,12 @@
     "lastName": "Suozzi",
     "party": "Democratic",
     "state": "New York",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001201?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202247"
+    "lastUpdated": "2025-07-28T13:12:47.839078",
+    "district": 3
   },
   {
     "id": "G000583",
@@ -2750,12 +2743,12 @@
     "lastName": "Gottheimer",
     "party": "Democratic",
     "state": "New Jersey",
-    "district": 5,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000583?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202252"
+    "lastUpdated": "2025-07-28T13:12:47.839086",
+    "district": 5
   },
   {
     "id": "W000822",
@@ -2764,12 +2757,12 @@
     "lastName": "Watson Coleman",
     "party": "Democratic",
     "state": "New Jersey",
-    "district": 12,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/W000822?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202257"
+    "lastUpdated": "2025-07-28T13:12:47.839094",
+    "district": 12
   },
   {
     "id": "N000188",
@@ -2778,12 +2771,12 @@
     "lastName": "Norcross",
     "party": "Democratic",
     "state": "New Jersey",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/N000188?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202262"
+    "lastUpdated": "2025-07-28T13:12:47.839102",
+    "district": 1
   },
   {
     "id": "J000294",
@@ -2792,12 +2785,12 @@
     "lastName": "Jeffries",
     "party": "Democratic",
     "state": "New York",
-    "district": 8,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000294?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202267"
+    "lastUpdated": "2025-07-28T13:12:47.839110",
+    "district": 8
   },
   {
     "id": "M001188",
@@ -2806,12 +2799,12 @@
     "lastName": "Meng",
     "party": "Democratic",
     "state": "New York",
-    "district": 6,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001188?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202272"
+    "lastUpdated": "2025-07-28T13:12:47.839117",
+    "district": 6
   },
   {
     "id": "H001066",
@@ -2820,12 +2813,12 @@
     "lastName": "Horsford",
     "party": "Democratic",
     "state": "Nevada",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001066?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202277"
+    "lastUpdated": "2025-07-28T13:12:47.839126",
+    "district": 4
   },
   {
     "id": "A000369",
@@ -2834,12 +2827,12 @@
     "lastName": "Amodei",
     "party": "Republican",
     "state": "Nevada",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/A000369?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202285"
+    "lastUpdated": "2025-07-28T13:12:47.839134",
+    "district": 2
   },
   {
     "id": "C001067",
@@ -2848,12 +2841,12 @@
     "lastName": "Clarke",
     "party": "Democratic",
     "state": "New York",
-    "district": 9,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001067?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202290"
+    "lastUpdated": "2025-07-28T13:12:47.839142",
+    "district": 9
   },
   {
     "id": "T000468",
@@ -2862,12 +2855,12 @@
     "lastName": "Titus",
     "party": "Democratic",
     "state": "Nevada",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000468?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202296"
+    "lastUpdated": "2025-07-28T13:12:47.839150",
+    "district": 1
   },
   {
     "id": "P000034",
@@ -2876,12 +2869,12 @@
     "lastName": "Pallone",
     "party": "Democratic",
     "state": "New Jersey",
-    "district": 6,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/P000034?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202301"
+    "lastUpdated": "2025-07-28T13:12:47.839197",
+    "district": 6
   },
   {
     "id": "M001137",
@@ -2890,12 +2883,12 @@
     "lastName": "Meeks",
     "party": "Democratic",
     "state": "New York",
-    "district": 5,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001137?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202306"
+    "lastUpdated": "2025-07-28T13:12:47.839217",
+    "district": 5
   },
   {
     "id": "V000081",
@@ -2904,12 +2897,12 @@
     "lastName": "Vel\u00e1zquez",
     "party": "Democratic",
     "state": "New York",
-    "district": 7,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/V000081?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202311"
+    "lastUpdated": "2025-07-28T13:12:47.839235",
+    "district": 7
   },
   {
     "id": "S000522",
@@ -2918,12 +2911,12 @@
     "lastName": "Smith",
     "party": "Republican",
     "state": "New Jersey",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S000522?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202316"
+    "lastUpdated": "2025-07-28T13:12:47.839776",
+    "district": 4
   },
   {
     "id": "M001240",
@@ -2932,12 +2925,12 @@
     "lastName": "McDowell",
     "party": "Republican",
     "state": "North Carolina",
-    "district": 6,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001240?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202321"
+    "lastUpdated": "2025-07-28T13:12:47.840500",
+    "district": 6
   },
   {
     "id": "M001236",
@@ -2946,12 +2939,12 @@
     "lastName": "Moore",
     "party": "Republican",
     "state": "North Carolina",
-    "district": 14,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001236?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202326"
+    "lastUpdated": "2025-07-28T13:12:47.840515",
+    "district": 14
   },
   {
     "id": "K000405",
@@ -2960,12 +2953,12 @@
     "lastName": "Knott",
     "party": "Republican",
     "state": "North Carolina",
-    "district": 13,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000405?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202331"
+    "lastUpdated": "2025-07-28T13:12:47.840524",
+    "district": 13
   },
   {
     "id": "H001102",
@@ -2974,12 +2967,12 @@
     "lastName": "Harris",
     "party": "Republican",
     "state": "North Carolina",
-    "district": 8,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001102?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202336"
+    "lastUpdated": "2025-07-28T13:12:47.840531",
+    "district": 8
   },
   {
     "id": "H001101",
@@ -2988,12 +2981,12 @@
     "lastName": "Harrigan",
     "party": "Republican",
     "state": "North Carolina",
-    "district": 10,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001101?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202341"
+    "lastUpdated": "2025-07-28T13:12:47.840547",
+    "district": 10
   },
   {
     "id": "F000482",
@@ -3002,12 +2995,12 @@
     "lastName": "Fedorchak",
     "party": "Republican",
     "state": "North Dakota",
-    "district": null,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000482?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202346"
+    "lastUpdated": "2025-07-28T13:12:47.840555",
+    "district": null
   },
   {
     "id": "E000246",
@@ -3016,12 +3009,12 @@
     "lastName": "Edwards",
     "party": "Republican",
     "state": "North Carolina",
-    "district": 11,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/E000246?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202351"
+    "lastUpdated": "2025-07-28T13:12:47.840564",
+    "district": 11
   },
   {
     "id": "F000474",
@@ -3030,12 +3023,12 @@
     "lastName": "Flood",
     "party": "Republican",
     "state": "Nebraska",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000474?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202355"
+    "lastUpdated": "2025-07-28T13:12:47.840570",
+    "district": 1
   },
   {
     "id": "B001298",
@@ -3044,12 +3037,12 @@
     "lastName": "Bacon",
     "party": "Republican",
     "state": "Nebraska",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001298?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202360"
+    "lastUpdated": "2025-07-28T13:12:47.840576",
+    "district": 2
   },
   {
     "id": "R000603",
@@ -3058,12 +3051,12 @@
     "lastName": "Rouzer",
     "party": "Republican",
     "state": "North Carolina",
-    "district": 7,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000603?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202365"
+    "lastUpdated": "2025-07-28T13:12:47.840583",
+    "district": 7
   },
   {
     "id": "A000370",
@@ -3072,12 +3065,12 @@
     "lastName": "Adams",
     "party": "Democratic",
     "state": "North Carolina",
-    "district": 12,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/A000370?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202370"
+    "lastUpdated": "2025-07-28T13:12:47.840590",
+    "district": 12
   },
   {
     "id": "H001067",
@@ -3086,12 +3079,12 @@
     "lastName": "Hudson",
     "party": "Republican",
     "state": "North Carolina",
-    "district": 9,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/H001067?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202378"
+    "lastUpdated": "2025-07-28T13:12:47.840596",
+    "district": 9
   },
   {
     "id": "S001172",
@@ -3100,12 +3093,12 @@
     "lastName": "Smith",
     "party": "Republican",
     "state": "Nebraska",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001172?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202383"
+    "lastUpdated": "2025-07-28T13:12:47.840602",
+    "district": 3
   },
   {
     "id": "F000450",
@@ -3114,12 +3107,12 @@
     "lastName": "Foxx",
     "party": "Republican",
     "state": "North Carolina",
-    "district": 5,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000450?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202388"
+    "lastUpdated": "2025-07-28T13:12:47.840613",
+    "district": 5
   },
   {
     "id": "O000177",
@@ -3128,12 +3121,12 @@
     "lastName": "Onder",
     "party": "Republican",
     "state": "Missouri",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/O000177?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202396"
+    "lastUpdated": "2025-07-28T13:12:47.840620",
+    "district": 3
   },
   {
     "id": "M001234",
@@ -3142,12 +3135,12 @@
     "lastName": "Morrison",
     "party": "Democratic",
     "state": "Minnesota",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001234?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202402"
+    "lastUpdated": "2025-07-28T13:12:47.840627",
+    "district": 3
   },
   {
     "id": "K000404",
@@ -3156,12 +3149,12 @@
     "lastName": "King-Hinds",
     "party": "Republican",
     "state": "Northern Mariana Islands",
-    "district": null,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000404?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202407"
+    "lastUpdated": "2025-07-28T13:12:47.840634",
+    "district": null
   },
   {
     "id": "D000634",
@@ -3170,12 +3163,12 @@
     "lastName": "Downing",
     "party": "Republican",
     "state": "Montana",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000634?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202412"
+    "lastUpdated": "2025-07-28T13:12:47.840640",
+    "district": 2
   },
   {
     "id": "B001324",
@@ -3184,12 +3177,12 @@
     "lastName": "Bell",
     "party": "Democratic",
     "state": "Missouri",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001324?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202417"
+    "lastUpdated": "2025-07-28T13:12:47.840647",
+    "district": 1
   },
   {
     "id": "J000307",
@@ -3198,12 +3191,12 @@
     "lastName": "James",
     "party": "Republican",
     "state": "Michigan",
-    "district": 10,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/J000307?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202422"
+    "lastUpdated": "2025-07-28T13:12:47.840653",
+    "district": 10
   },
   {
     "id": "E000235",
@@ -3212,12 +3205,12 @@
     "lastName": "Ezell",
     "party": "Republican",
     "state": "Mississippi",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/E000235?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202427"
+    "lastUpdated": "2025-07-28T13:12:47.840659",
+    "district": 4
   },
   {
     "id": "D000230",
@@ -3226,12 +3219,12 @@
     "lastName": "Davis",
     "party": "Democratic",
     "state": "North Carolina",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/D000230?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202432"
+    "lastUpdated": "2025-07-28T13:12:47.840666",
+    "district": 1
   },
   {
     "id": "B001316",
@@ -3240,12 +3233,12 @@
     "lastName": "Burlison",
     "party": "Republican",
     "state": "Missouri",
-    "district": 7,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/B001316?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202437"
+    "lastUpdated": "2025-07-28T13:12:47.840673",
+    "district": 7
   },
   {
     "id": "A000379",
@@ -3254,12 +3247,12 @@
     "lastName": "Alford",
     "party": "Republican",
     "state": "Missouri",
-    "district": 4,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/A000379?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202442"
+    "lastUpdated": "2025-07-28T13:12:47.840679",
+    "district": 4
   },
   {
     "id": "F000475",
@@ -3268,12 +3261,12 @@
     "lastName": "Finstad",
     "party": "Republican",
     "state": "Minnesota",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000475?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202447"
+    "lastUpdated": "2025-07-28T13:12:47.840689",
+    "district": 1
   },
   {
     "id": "R000305",
@@ -3282,12 +3275,12 @@
     "lastName": "Ross",
     "party": "Democratic",
     "state": "North Carolina",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/R000305?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202452"
+    "lastUpdated": "2025-07-28T13:12:47.840700",
+    "district": 2
   },
   {
     "id": "F000470",
@@ -3296,12 +3289,12 @@
     "lastName": "Fischbach",
     "party": "Republican",
     "state": "Minnesota",
-    "district": 7,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/F000470?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202457"
+    "lastUpdated": "2025-07-28T13:12:47.840707",
+    "district": 7
   },
   {
     "id": "M001210",
@@ -3310,12 +3303,12 @@
     "lastName": "Murphy",
     "party": "Republican",
     "state": "North Carolina",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/M001210?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202462"
+    "lastUpdated": "2025-07-28T13:12:47.840714",
+    "district": 3
   },
   {
     "id": "G000591",
@@ -3324,12 +3317,12 @@
     "lastName": "Guest",
     "party": "Republican",
     "state": "Mississippi",
-    "district": 3,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/G000591?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202467"
+    "lastUpdated": "2025-07-28T13:12:47.840720",
+    "district": 3
   },
   {
     "id": "S001212",
@@ -3338,12 +3331,12 @@
     "lastName": "Stauber",
     "party": "Republican",
     "state": "Minnesota",
-    "district": 8,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001212?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202472"
+    "lastUpdated": "2025-07-28T13:12:47.840727",
+    "district": 8
   },
   {
     "id": "O000173",
@@ -3352,12 +3345,12 @@
     "lastName": "Omar",
     "party": "Democratic",
     "state": "Minnesota",
-    "district": 5,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/O000173?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202477"
+    "lastUpdated": "2025-07-28T13:12:47.840733",
+    "district": 5
   },
   {
     "id": "C001119",
@@ -3366,12 +3359,12 @@
     "lastName": "Craig",
     "party": "Democratic",
     "state": "Minnesota",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/C001119?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202482"
+    "lastUpdated": "2025-07-28T13:12:47.840739",
+    "district": 2
   },
   {
     "id": "T000481",
@@ -3380,12 +3373,12 @@
     "lastName": "Tlaib",
     "party": "Democratic",
     "state": "Michigan",
-    "district": 12,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000481?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202487"
+    "lastUpdated": "2025-07-28T13:12:47.840745",
+    "district": 12
   },
   {
     "id": "S001215",
@@ -3394,12 +3387,12 @@
     "lastName": "Stevens",
     "party": "Democratic",
     "state": "Michigan",
-    "district": 11,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001215?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202491"
+    "lastUpdated": "2025-07-28T13:12:47.840752",
+    "district": 11
   },
   {
     "id": "K000388",
@@ -3408,12 +3401,12 @@
     "lastName": "Kelly",
     "party": "Republican",
     "state": "Mississippi",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/K000388?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202496"
+    "lastUpdated": "2025-07-28T13:12:47.840758",
+    "district": 1
   },
   {
     "id": "Z000018",
@@ -3422,12 +3415,12 @@
     "lastName": "Zinke",
     "party": "Republican",
     "state": "Montana",
-    "district": 1,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/Z000018?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202505"
+    "lastUpdated": "2025-07-28T13:12:47.840764",
+    "district": 1
   },
   {
     "id": "E000294",
@@ -3436,12 +3429,12 @@
     "lastName": "Emmer",
     "party": "Republican",
     "state": "Minnesota",
-    "district": 6,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/E000294?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202510"
+    "lastUpdated": "2025-07-28T13:12:47.840770",
+    "district": 6
   },
   {
     "id": "W000812",
@@ -3450,12 +3443,12 @@
     "lastName": "Wagner",
     "party": "Republican",
     "state": "Missouri",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/W000812?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202515"
+    "lastUpdated": "2025-07-28T13:12:47.840777",
+    "district": 2
   },
   {
     "id": "S001195",
@@ -3464,12 +3457,12 @@
     "lastName": "Smith",
     "party": "Republican",
     "state": "Missouri",
-    "district": 8,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/S001195?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202520"
+    "lastUpdated": "2025-07-28T13:12:47.840783",
+    "district": 8
   },
   {
     "id": "T000193",
@@ -3478,11 +3471,11 @@
     "lastName": "Thompson",
     "party": "Democratic",
     "state": "Mississippi",
-    "district": 2,
     "chamber": "House of Representatives",
     "title": "Representative",
     "url": "https://api.congress.gov/v3/member/T000193?format=json",
     "inOffice": true,
-    "lastUpdated": "2025-07-28T13:05:47.202525"
+    "lastUpdated": "2025-07-28T13:12:47.840789",
+    "district": 2
   }
 ]

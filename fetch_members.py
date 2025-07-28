@@ -58,20 +58,46 @@ def process_members_data(data):
         if 'terms' in member and 'item' in member['terms'] and len(member['terms']['item']) > 0:
             current_term = member['terms']['item'][-1]  # Get the most recent term
         
-        processed.append({
-            'id': member.get('bioguideId'),
+        # Determine chamber and title
+        chamber = current_term.get('chamber', '') if current_term else ''
+        is_senator = 'Senate' in chamber
+        
+        # Process district - convert to int if it exists and is a number
+        district = member.get('district')
+        if district is not None:
+            try:
+                district = int(float(district))  # Handle both string and float inputs
+            except (ValueError, TypeError):
+                district = None
+        
+        # For senators, set district to None
+        if is_senator:
+            district = None
+        
+        # Get state and party with fallbacks
+        state = member.get('state', '')
+        party = member.get('partyName', '')
+        
+        # Create the member record
+        member_data = {
+            'id': member.get('bioguideId', ''),
             'name': member.get('name', '').strip(),
             'firstName': first_name,
             'lastName': last_name,
-            'party': member.get('partyName', ''),
-            'state': member.get('state', ''),
-            'district': member.get('district'),
-            'chamber': current_term.get('chamber') if current_term else '',
-            'title': 'Senator' if current_term and 'Senate' in current_term.get('chamber', '') else 'Representative',
+            'party': party,
+            'state': state,
+            'chamber': chamber,
+            'title': 'Senator' if is_senator else 'Representative',
             'url': member.get('url', ''),
             'inOffice': current_term is not None,
             'lastUpdated': datetime.now().isoformat()
-        })
+        }
+        
+        # Only add district for representatives
+        if not is_senator:
+            member_data['district'] = district
+        
+        processed.append(member_data)
     return processed
 
 def save_to_json(data, filename):
@@ -80,11 +106,30 @@ def save_to_json(data, filename):
         json.dump(data, f, indent=2)
 
 def save_to_csv(data, filename):
-    """Save data to a CSV file."""
+    """Save data to a CSV file with proper handling of the district column."""
     if not data:
         return
+    
+    # Create a DataFrame
     df = pd.DataFrame(data)
-    df.to_csv(filename, index=False)
+    
+    # Ensure district column is properly handled for both senators and representatives
+    if 'district' in df.columns:
+        # Convert district to nullable integer type (Int64) to handle None values
+        df['district'] = pd.to_numeric(df['district'], errors='coerce')
+        df['district'] = df['district'].astype('Int64')  # Capital I for nullable integer
+    
+    # Reorder columns to put district in a logical position
+    columns = ['id', 'name', 'firstName', 'lastName', 'party', 'state', 'chamber', 'title']
+    if 'district' in df.columns:
+        columns.insert(6, 'district')  # Insert after state and before chamber
+    columns.extend(['url', 'inOffice', 'lastUpdated'])
+    
+    # Only keep columns that exist in the DataFrame
+    columns = [col for col in columns if col in df.columns]
+    
+    # Save to CSV with consistent column order
+    df[columns].to_csv(filename, index=False)
 
 def main():
     # Load environment variables
