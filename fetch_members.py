@@ -28,7 +28,15 @@ def get_congress_members():
     try:
         response = requests.get(url, headers=headers, params=params)
         response.raise_for_status()
-        return response.json()
+        data = response.json()
+        
+        # Debug: Print the first member to inspect the structure
+        if data and 'members' in data and len(data['members']) > 0:
+            print("\nSample member data structure:")
+            import json
+            print(json.dumps(data['members'][0], indent=2))
+            
+        return data
     except requests.exceptions.RequestException as e:
         print(f"Error fetching data: {e}")
         return None
@@ -40,18 +48,28 @@ def process_members_data(data):
     
     processed = []
     for member in data['members']:
+        # Extract first and last name from the 'name' field
+        name_parts = member.get('name', '').split(',')
+        last_name = name_parts[0].strip() if len(name_parts) > 0 else ''
+        first_name = name_parts[1].strip() if len(name_parts) > 1 else ''
+        
+        # Get the most recent term to determine current chamber and status
+        current_term = None
+        if 'terms' in member and 'item' in member['terms'] and len(member['terms']['item']) > 0:
+            current_term = member['terms']['item'][-1]  # Get the most recent term
+        
         processed.append({
-            'id': member.get('id'),
-            'name': f"{member.get('firstName', '')} {member.get('lastName', '')}".strip(),
-            'firstName': member.get('firstName'),
-            'lastName': member.get('lastName'),
-            'party': member.get('party'),
-            'state': member.get('state'),
+            'id': member.get('bioguideId'),
+            'name': member.get('name', '').strip(),
+            'firstName': first_name,
+            'lastName': last_name,
+            'party': member.get('partyName', ''),
+            'state': member.get('state', ''),
             'district': member.get('district'),
-            'chamber': member.get('chamber'),
-            'title': member.get('title'),
-            'url': member.get('url'),
-            'inOffice': member.get('inOffice', False),
+            'chamber': current_term.get('chamber') if current_term else '',
+            'title': 'Senator' if current_term and 'Senate' in current_term.get('chamber', '') else 'Representative',
+            'url': member.get('url', ''),
+            'inOffice': current_term is not None,
             'lastUpdated': datetime.now().isoformat()
         })
     return processed
