@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 import requests
 
 def get_congress_members():
-    """Fetch current members of Congress from the Congress.gov API."""
+    """Fetch current members of Congress from the Congress.gov API with pagination to get all members."""
     # Congress.gov API endpoint for current members
     url = "https://api.congress.gov/v3/member"
     
@@ -20,23 +20,46 @@ def get_congress_members():
         'X-API-Key': api_key
     }
     
-    params = {
-        'limit': 250,  # Adjust based on the actual number of members
-        'offset': 0
-    }
+    all_members = []
+    offset = 0
+    limit = 250  # API limit per request
+    
+    print("Fetching congress members with pagination...")
     
     try:
-        response = requests.get(url, headers=headers, params=params)
-        response.raise_for_status()
-        data = response.json()
-        
-        # Debug: Print the first member to inspect the structure
-        if data and 'members' in data and len(data['members']) > 0:
-            print("\nSample member data structure:")
-            import json
-            print(json.dumps(data['members'][0], indent=2))
+        while True:
+            params = {
+                'limit': limit,
+                'offset': offset
+            }
             
-        return data
+            print(f"Fetching members {offset + 1} to {offset + limit}...")
+            response = requests.get(url, headers=headers, params=params)
+            response.raise_for_status()
+            data = response.json()
+            
+            if not data or 'members' not in data or len(data['members']) == 0:
+                break
+            
+            all_members.extend(data['members'])
+            
+            # Debug: Print the first member structure only on first iteration
+            if offset == 0 and len(data['members']) > 0:
+                print("\nSample member data structure:")
+                import json
+                print(json.dumps(data['members'][0], indent=2))
+            
+            # If we got fewer members than the limit, we've reached the end
+            if len(data['members']) < limit:
+                break
+                
+            offset += limit
+        
+        print(f"\nTotal members fetched: {len(all_members)}")
+        
+        # Return data in the same format as before
+        return {'members': all_members}
+        
     except requests.exceptions.RequestException as e:
         print(f"Error fetching data: {e}")
         return None
