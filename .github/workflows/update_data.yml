@@ -7,13 +7,6 @@ on:
   # Allows manual trigger
   workflow_dispatch:
 
-# Set the permission to write to the repository
-permissions:
-  contents: write
-  pull-requests: write
-  issues: write
-  statuses: write
-
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -24,8 +17,8 @@ jobs:
       with:
         # Fetch all history for all branches and tags
         fetch-depth: 0
-        # Use a Personal Access Token (PAT) for authentication
-        token: ${{ secrets.GITHUB_TOKEN }}
+        # Use the PAT for authentication
+        token: ${{ secrets.PAT }}
     
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -44,7 +37,8 @@ jobs:
     
     - name: Commit and push changes
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # Use the same PAT for pushing
+        PAT: ${{ secrets.PAT }}
       run: |
         # Configure Git
         git config --global user.name 'GitHub Actions'
@@ -58,8 +52,8 @@ jobs:
           # Commit changes
           git commit -m "Auto-update Congress member data [skip ci]"
           
-          # Push changes using the token
-          git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
+          # Push changes using the PAT
+          git remote set-url origin https://${{ github.actor }}:$PAT@github.com/${{ github.repository }}.git
           git push origin HEAD:main
         else
           echo "No changes to commit"
