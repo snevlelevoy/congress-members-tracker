@@ -25,6 +25,8 @@ def get_congress_members():
     limit = 250  # API limit per request
     
     print("Fetching congress members with pagination...")
+    print(f"API URL: {url}")
+    print(f"Using API key: {'Yes' if api_key else 'No'}")
     
     try:
         while True:
@@ -33,15 +35,23 @@ def get_congress_members():
                 'offset': offset
             }
             
+            print(f"\n=== API Request {(offset // limit) + 1} ===")
             print(f"Fetching members {offset + 1} to {offset + limit}...")
+            print(f"Request params: {params}")
+            
             response = requests.get(url, headers=headers, params=params)
             response.raise_for_status()
             data = response.json()
             
+            print(f"Response status: {response.status_code}")
+            print(f"Members in this batch: {len(data.get('members', []))}")
+            
             if not data or 'members' not in data or len(data['members']) == 0:
+                print("No more members found, stopping pagination.")
                 break
             
             all_members.extend(data['members'])
+            print(f"Total members so far: {len(all_members)}")
             
             # Debug: Print the first member structure only on first iteration
             if offset == 0 and len(data['members']) > 0:
@@ -49,13 +59,20 @@ def get_congress_members():
                 import json
                 print(json.dumps(data['members'][0], indent=2))
             
+            # Check if API response includes pagination info
+            if 'pagination' in data:
+                print(f"Pagination info: {data['pagination']}")
+            
             # If we got fewer members than the limit, we've reached the end
             if len(data['members']) < limit:
+                print(f"Received {len(data['members'])} members (less than limit {limit}), stopping pagination.")
                 break
                 
             offset += limit
+            print(f"Next offset will be: {offset}")
         
-        print(f"\nTotal members fetched: {len(all_members)}")
+        print(f"\n=== FINAL RESULTS ===")
+        print(f"Total members fetched: {len(all_members)}")
         
         # Return data in the same format as before
         return {'members': all_members}
