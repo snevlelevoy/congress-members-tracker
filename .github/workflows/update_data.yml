@@ -61,13 +61,29 @@ jobs:
           echo "Pulling latest changes..."
           git fetch origin main
           
-          # Try to rebase, if it fails, try merge
+          # For data files, we want to use our newly fetched data
+          # Try to rebase, if it fails due to data conflicts, resolve by keeping our version
           if git rebase origin/main; then
             echo "Successfully rebased changes"
           else
-            echo "Rebase failed, trying merge..."
+            echo "Rebase failed, likely due to data file conflicts. Resolving..."
             git rebase --abort
-            git merge origin/main --no-edit
+            
+            # Merge and resolve conflicts by keeping our data files
+            git merge origin/main --no-edit || true
+            
+            # Check for conflicts and resolve them
+            if git status --porcelain | grep -q "^UU\|^AA"; then
+              echo "Resolving merge conflicts in data files..."
+              # For data files, keep our version (the newly fetched data)
+              git status --porcelain | grep "^UU\|^AA" | cut -c4- | while read file; do
+                if [[ $file == data/* ]]; then
+                  echo "Keeping our version of $file"
+                  git add "$file"
+                fi
+              done
+              git commit --no-edit
+            fi
           fi
           
           # Push changes with retry logic
