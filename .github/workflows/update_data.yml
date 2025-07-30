@@ -51,53 +51,50 @@ jobs:
         
         # Check if there are changes to commit
         if ! git diff --cached --quiet; then
-          # Commit changes
-          git commit -m "Auto-update Congress member data [skip ci]"
+          # Store the data files temporarily
+          echo "Backing up newly fetched data files..."
+          cp -r data/ /tmp/new_data/
+          
+          # Reset to latest remote state to avoid conflicts
+          git reset --hard
+          git fetch origin main
+          git reset --hard origin/main
+          
+          # Restore the newly fetched data
+          echo "Restoring newly fetched data..."
+          cp -r /tmp/new_data/* data/
           
           # Set up remote with PAT
           git remote set-url origin https://${{ github.actor }}:$PAT@github.com/${{ github.repository }}.git
           
-          # Pull latest changes and handle conflicts
-          echo "Pulling latest changes..."
-          git fetch origin main
+          # Add and commit the updated data
+          git add data/
           
-          # For data files, we want to use our newly fetched data
-          # Try to rebase, if it fails due to data conflicts, resolve by keeping our version
-          if git rebase origin/main; then
-            echo "Successfully rebased changes"
-          else
-            echo "Rebase failed, likely due to data file conflicts. Resolving..."
-            git rebase --abort
+          # Only commit if there are actually changes
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto-update Congress member data [skip ci]"
             
-            # Merge and resolve conflicts by keeping our data files
-            git merge origin/main --no-edit || true
-            
-            # Check for conflicts and resolve them
-            if git status --porcelain | grep -q "^UU\|^AA"; then
-              echo "Resolving merge conflicts in data files..."
-              # For data files, keep our version (the newly fetched data)
-              git status --porcelain | grep "^UU\|^AA" | cut -c4- | while read file; do
-                if [[ $file == data/* ]]; then
-                  echo "Keeping our version of $file"
-                  git add "$file"
+            # Push changes with retry logic
+            echo "Pushing changes..."
+            for i in {1..3}; do
+              if git push origin HEAD:main; then
+                echo "Successfully pushed changes"
+                break
+              else
+                echo "Push attempt $i failed, retrying..."
+                git fetch origin main
+                git reset --hard origin/main
+                cp -r /tmp/new_data/* data/
+                git add data/
+                if ! git diff --cached --quiet; then
+                  git commit -m "Auto-update Congress member data [skip ci]"
                 fi
-              done
-              git commit --no-edit
-            fi
+                sleep 2
+              fi
+            done
+          else
+            echo "No changes detected after reset, skipping push"
           fi
-          
-          # Push changes with retry logic
-          echo "Pushing changes..."
-          for i in {1..3}; do
-            if git push origin HEAD:main; then
-              echo "Successfully pushed changes"
-              break
-            else
-              echo "Push attempt $i failed, retrying..."
-              git pull --rebase origin main
-              sleep 2
-            fi
-          done
         else
           echo "No changes to commit"
         fi
