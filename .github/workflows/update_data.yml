@@ -19,6 +19,8 @@ jobs:
         fetch-depth: 0
         # Use the PAT for authentication
         token: ${{ secrets.PAT }}
+        # Always get the latest version
+        ref: main
     
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -55,11 +57,31 @@ jobs:
           # Set up remote with PAT
           git remote set-url origin https://${{ github.actor }}:$PAT@github.com/${{ github.repository }}.git
           
-          # Pull latest changes and rebase our commit on top
-          git pull --rebase origin main
+          # Pull latest changes and handle conflicts
+          echo "Pulling latest changes..."
+          git fetch origin main
           
-          # Push changes
-          git push origin HEAD:main
+          # Try to rebase, if it fails, try merge
+          if git rebase origin/main; then
+            echo "Successfully rebased changes"
+          else
+            echo "Rebase failed, trying merge..."
+            git rebase --abort
+            git merge origin/main --no-edit
+          fi
+          
+          # Push changes with retry logic
+          echo "Pushing changes..."
+          for i in {1..3}; do
+            if git push origin HEAD:main; then
+              echo "Successfully pushed changes"
+              break
+            else
+              echo "Push attempt $i failed, retrying..."
+              git pull --rebase origin main
+              sleep 2
+            fi
+          done
         else
           echo "No changes to commit"
         fi
