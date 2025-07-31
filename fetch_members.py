@@ -16,10 +16,6 @@ def get_congress_members():
     if not api_key:
         raise ValueError("Please set the CONGRESS_GOV_API_KEY environment variable")
     
-    headers = {
-        'X-API-Key': api_key
-    }
-    
     all_members = []
     offset = 0
     limit = 250  # API limit per request
@@ -31,21 +27,25 @@ def get_congress_members():
     try:
         while True:
             params = {
+                'format': 'json',  # Explicitly specify JSON format
                 'limit': limit,
-                'offset': offset
+                'offset': offset,
+                'api_key': api_key  # Add API key as parameter instead of header
             }
             
             print(f"\n=== API Request {(offset // limit) + 1} ===")
             print(f"Fetching members {offset + 1} to {offset + limit}...")
             print(f"Request params: {params}")
             
-            response = requests.get(url, headers=headers, params=params)
+            # Remove API key from headers since we're passing it as parameter
+            response = requests.get(url, params=params)
             response.raise_for_status()
             data = response.json()
             
             print(f"Response status: {response.status_code}")
             print(f"Members in this batch: {len(data.get('members', []))}")
             
+            # Check if we have members in the response
             if not data or 'members' not in data or len(data['members']) == 0:
                 print("No more members found, stopping pagination.")
                 break
@@ -62,6 +62,11 @@ def get_congress_members():
             # Check if API response includes pagination info
             if 'pagination' in data:
                 print(f"Pagination info: {data['pagination']}")
+                # Use pagination info if available to determine if there are more results
+                if 'count' in data['pagination'] and 'next' in data['pagination']:
+                    if not data['pagination']['next']:
+                        print("API indicates no more results available.")
+                        break
             
             # If we got fewer members than the limit, we've reached the end
             if len(data['members']) < limit:
